@@ -4,6 +4,6 @@ title: Ing. Miloslav Krejčíček
 strana: ODS
 popis: Doplňte krátký popis.
 kontakt: ""
-foto: ""
+foto: /images/kandidat-4-krejcicek.jpg
 ---
 Doplňte podrobný životopis a politické priority kandidáta.
