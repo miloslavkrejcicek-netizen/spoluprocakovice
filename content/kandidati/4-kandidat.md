@@ -2,7 +2,7 @@
 rank: 4
 title: Ing. Miloslav Krejčíček
 strana: ODS
-popis: Doplňte krátký popis.
+popis: Radní MČ Praha–Čakovice, odborník na bytovou a sociální politiku
 kontakt: ""
 foto: /images/kandidat-4-krejcicek.jpg
 ---
