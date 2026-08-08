@@ -16,6 +16,6 @@ Komunální politice se věnuji více než dvacet let. Od roku 2002 jsem působi
 
 Dlouhodobě se věnuji především **dopravě, školství a rozvoji městské části**. Záleží mi ale také na tom, aby Čakovice zůstaly místem, kde se dobře žije – s kvalitními školami, dostatkem zeleně, možnostmi sportu a aktivního trávení volného času.
 
-Ve volném čase trénuji mladší žactvo v čakovické národní házené. Jsem ženatý a mám dva dospívající syny. Mám rád cestování a film.
+Ve volném čase trénuji mladší žactvo v čakovické národní házené. Jsem ženatý a mám rád cestování a film.
 
 **Moje motto? Slušnost není slabost.** A právě slušnost, odpovědnost a schopnost hledat řešení považuji za základ dobré komunální politiky.
