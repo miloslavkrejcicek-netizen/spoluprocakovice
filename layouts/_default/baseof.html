@@ -18,12 +18,12 @@
 *{margin:0;padding:0;box-sizing:border-box}html{scroll-behavior:smooth}
 body{font-family:'Inter',sans-serif;color:var(--text);background:var(--white);overflow-x:hidden;-webkit-font-smoothing:antialiased}
 h1,h2,h3,.display{font-family:'Barlow Condensed',sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:.2px}
-nav{position:fixed;top:0;left:0;right:0;z-index:200;background:rgba(255,255,255,.97);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:0 6%;display:flex;align-items:center;justify-content:space-between;height:76px;transition:box-shadow .3s}
+nav{position:fixed;top:0;left:0;right:0;z-index:200;background:rgba(255,255,255,.97);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:0 6%;display:flex;align-items:center;justify-content:space-between;height:88px;transition:box-shadow .3s}
 nav.scrolled{box-shadow:0 2px 20px rgba(11,53,86,.08)}
 .nav-logo{display:flex;align-items:center;text-decoration:none}
-.logo-mark{font-family:'Anton',sans-serif;font-size:20px;line-height:1;color:var(--teal);display:inline-flex;align-items:center}
-.logo-mark img{height:40px;width:auto;display:block}
-.logo-mark .box{background:var(--navy);color:#fff;font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:12px;letter-spacing:.5px;padding:4px 8px;margin-left:6px;text-transform:uppercase}
+.logo-mark{font-family:'Anton',sans-serif;font-size:28px;line-height:1;color:var(--teal);display:inline-flex;align-items:center}
+.logo-mark img{height:56px;width:auto;display:block}
+.logo-mark .box{background:var(--navy);color:#fff;font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:16px;letter-spacing:.5px;padding:5px 10px;margin-left:8px;text-transform:uppercase}
 .nav-links{display:flex;align-items:center;gap:30px;list-style:none}
 .nav-links a{color:var(--text-mid);text-decoration:none;font-size:14px;font-weight:600;transition:color .2s;font-family:'Barlow Condensed',sans-serif;text-transform:uppercase;letter-spacing:.5px}
 .nav-links a:hover{color:var(--navy)}
@@ -159,7 +159,7 @@ footer{background:var(--navy-deep);color:rgba(255,255,255,.85)}
 <nav id="main-nav">
   <a href="#" class="nav-logo">
     {{ if .Site.Data.settings.logo }}
-    <img src="{{ .Site.Data.settings.logo }}" alt="{{ .Site.Title }}" style="height:40px;width:auto">
+    <img src="{{ .Site.Data.settings.logo }}" alt="{{ .Site.Title }}" style="height:60px;width:auto">
     {{ else }}
     <span class="logo-mark">SPOLU<span class="box">PRO ČAKOVICE</span></span>
     {{ end }}
