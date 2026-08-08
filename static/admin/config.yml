@@ -1,0 +1,93 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/images"
+public_folder: "/images"
+
+locale: cs
+
+collections:
+  - name: "settings"
+    label: "Nastavení webu"
+    files:
+      - name: "general"
+        label: "Obecné nastavení"
+        file: "data/settings.yaml"
+        fields:
+          - {label: "Logo — verze pro světlé pozadí (menu)", name: "logo", widget: "image", required: false}
+          - {label: "Logo — verze pro tmavé pozadí (patička)", name: "logo_footer", widget: "image", required: false}
+          - {label: "Eyebrow text", name: "eyebrow", widget: "string"}
+          - {label: "Nadpis řádek 1", name: "hero_line1", widget: "string"}
+          - {label: "Nadpis řádek 2 (modrý)", name: "hero_line2", widget: "string"}
+          - {label: "Perex", name: "hero_perex", widget: "text"}
+          - {label: "Tlačítko 1", name: "hero_btn1", widget: "string"}
+          - {label: "Tlačítko 2", name: "hero_btn2", widget: "string"}
+          - label: "Statistiky"
+            name: "stats"
+            widget: "list"
+            fields:
+              - {label: "Číslo", name: "num", widget: "string"}
+              - {label: "Popisek", name: "lbl", widget: "string"}
+          - {label: "Program — nadpis", name: "program_h2", widget: "string"}
+          - {label: "Program — podtitulek", name: "program_intro", widget: "text"}
+          - {label: "Program — úvodní text / vize", name: "program_vize", widget: "text"}
+          - {label: "Akce — nadpis", name: "akce_h2", widget: "string"}
+          - {label: "Akce — podtitulek", name: "akce_intro", widget: "text"}
+          - {label: "Kontaktní e-mail", name: "kontakt_email", widget: "string"}
+          - {label: "Facebook URL", name: "kontakt_fb", widget: "string"}
+          - {label: "Adresa", name: "kontakt_adresa", widget: "string"}
+          - {label: "Kontaktní text", name: "kontakt_text", widget: "text"}
+          - {label: "Zadavatel politické reklamy (zákon 491/2001 Sb.)", name: "legal_zadavatel", widget: "string"}
+          - {label: "Zpracovatel politické reklamy (zákon 491/2001 Sb.)", name: "legal_zpracovatel", widget: "string"}
+
+  - name: "kandidati"
+    label: "Kandidáti"
+    folder: "content/kandidati"
+    create: true
+    slug: "{{fields.rank}}-{{slug}}"
+    fields:
+      - {label: "Číslo na kandidátce", name: "rank", widget: "number", value_type: "int"}
+      - {label: "Jméno", name: "title", widget: "string"}
+      - {label: "Strana", name: "strana", widget: "select", options: ["ODS", "TOP09", "nezávislý"]}
+      - {label: "Krátký popis (na kartě)", name: "popis", widget: "text"}
+      - {label: "Kontaktní e-mail", name: "kontakt", widget: "string", required: false}
+      - {label: "Fotka", name: "foto", widget: "image", required: false}
+      - {label: "Detailní bio", name: "body", widget: "markdown"}
+
+  - name: "program"
+    label: "Program"
+    folder: "content/program"
+    create: true
+    slug: "{{fields.order}}-{{slug}}"
+    fields:
+      - {label: "Pořadí", name: "order", widget: "number", value_type: "int"}
+      - {label: "Ikona (emoji)", name: "icon", widget: "string"}
+      - {label: "Název", name: "title", widget: "string"}
+      - {label: "Krátký text (na kartě)", name: "popis", widget: "text"}
+      - {label: "Detailní text", name: "body", widget: "markdown"}
+
+  - name: "vysledky"
+    label: "Výsledky"
+    folder: "content/vysledky"
+    create: true
+    slug: "{{fields.order}}-{{slug}}"
+    fields:
+      - {label: "Pořadí", name: "order", widget: "number", value_type: "int"}
+      - {label: "Název", name: "title", widget: "string"}
+      - {label: "Krátký popis", name: "popis", widget: "text"}
+      - {label: "Fotka", name: "foto", widget: "image", required: false}
+      - {label: "Detailní text", name: "body", widget: "markdown"}
+
+  - name: "akce"
+    label: "Akce"
+    folder: "content/akce"
+    create: true
+    slug: "{{fields.datum}}-{{slug}}"
+    fields:
+      - {label: "Název", name: "title", widget: "string"}
+      - {label: "Datum", name: "datum", widget: "datetime", format: "YYYY-MM-DD", date_format: "DD. MM. YYYY", time_format: false}
+      - {label: "Čas", name: "cas", widget: "string", required: false}
+      - {label: "Místo", name: "misto", widget: "string"}
+      - {label: "Typ", name: "typ", widget: "select", options: [{label: "Setkání s občany", value: "setkani"}, {label: "Mítink", value: "mitink"}, {label: "Brigáda", value: "brigada"}, {label: "Kulturní", value: "kulturni"}, {label: "Jiné", value: "jine"}]}
+      - {label: "Popis", name: "body", widget: "markdown"}

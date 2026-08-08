@@ -1,0 +1,16 @@
+{{ $s := .Site.Data.settings }}
+<section id="hero">
+  <div class="hero-giant-mark">SPOLU</div>
+  <div class="hero-inner">
+    <div class="hero-eyebrow">
+      <span class="hero-eyebrow-num">26</span>
+      <span class="hero-eyebrow-text">{{ $s.eyebrow }}</span>
+    </div>
+    <h1 class="hero-title">{{ $s.hero_line1 }} {{ $s.hero_line2 }}</h1>
+    <p class="hero-perex">{{ $s.hero_perex }}</p>
+    <div class="hero-actions">
+      <a href="#program" class="btn-primary">{{ $s.hero_btn1 }}</a>
+      <a href="#kandidati" class="btn-secondary">{{ $s.hero_btn2 }}</a>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,67 @@
+<script>
+if (window.netlifyIdentity) {
+  window.netlifyIdentity.on("init", function(user) {
+    if (!user) {
+      window.netlifyIdentity.on("login", function() {
+        document.location.href = "/admin/";
+      });
+    }
+  });
+}
+
+function openModal(id) {
+  var h = MODALS[id];
+  if (!h) return;
+  document.getElementById("modal-content").innerHTML = h;
+  document.getElementById("modal-overlay").classList.add("open");
+  document.body.style.overflow = "hidden";
+}
+function closeModal() {
+  document.getElementById("modal-overlay").classList.remove("open");
+  document.body.style.overflow = "";
+}
+document.addEventListener("keydown", function(e) { if (e.key === "Escape") closeModal(); });
+
+function toggleMore(btn, id) {
+  var el = document.getElementById(id);
+  var open = el.style.display === "block";
+  el.style.display = open ? "none" : "block";
+  btn.textContent = open ? btn.dataset.label : "Skrýt ↑";
+  if (!open) el.querySelectorAll(".reveal").forEach(function(r) {
+    setTimeout(function() { r.classList.add("visible"); }, 50);
+  });
+}
+
+var obs = new IntersectionObserver(function(entries) {
+  entries.forEach(function(e) {
+    if (e.isIntersecting) {
+      var idx = Array.from(e.target.parentElement.children).indexOf(e.target) % 5;
+      setTimeout(function() { e.target.classList.add("visible"); }, idx * 70);
+      obs.unobserve(e.target);
+    }
+  });
+}, { threshold: .08, rootMargin: "0px 0px -32px 0px" });
+document.querySelectorAll(".reveal").forEach(function(el) { obs.observe(el); });
+
+window.addEventListener("scroll", function() {
+  document.getElementById("main-nav").classList.toggle("scrolled", window.scrollY > 40);
+});
+
+var cf = document.getElementById("contact-form");
+if (cf) {
+  cf.addEventListener("submit", async function(e) {
+    e.preventDefault();
+    var btn = document.getElementById("submit-btn");
+    var s = document.getElementById("form-success");
+    var er = document.getElementById("form-error");
+    btn.textContent = "Odesílám..."; btn.disabled = true;
+    s.style.display = "none"; er.style.display = "none";
+    try {
+      var r = await fetch(cf.action, { method: "POST", body: new FormData(cf), headers: { "Accept": "application/json" } });
+      if (r.ok) { s.style.display = "block"; cf.reset(); btn.textContent = "Odesláno ✓"; }
+      else { er.style.display = "block"; btn.textContent = "Odeslat zprávu →"; btn.disabled = false; }
+    } catch(ex) { er.style.display = "block"; btn.textContent = "Odeslat zprávu →"; btn.disabled = false; }
+  });
+}
+</script>
+

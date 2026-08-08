@@ -1,0 +1,62 @@
+{{ $vys := where .Site.RegularPages "Section" "vysledky" }}
+{{ $vys = sort $vys ".Params.order" }}
+{{ $top3 := first 3 $vys }}
+{{ $extra := after 3 $vys }}
+<section id="vysledky" class="section">
+  <div class="section-inner">
+    <span class="section-tag reveal">Konkrétní výsledky</span>
+    <h2 class="reveal">Co jsme již dokázali</h2>
+    <p class="section-sub reveal">Slova nestačí — proto ukazujeme, co jsme pro Čakovice, Miškovice a Třeboradice skutečně udělali.</p>
+    <div class="vysledky-grid">
+      <div>
+        <div class="vysledky-list">
+          {{ range $top3 }}
+          {{ $mid := printf "v_%s" .File.UniqueID }}
+          <div class="vys-item reveal" onclick="openModal('{{ $mid }}')">
+            {{ if .Params.foto }}
+            <div class="vys-foto-thumb" style="background-image:url({{ .Params.foto }})"></div>
+            {{ else }}
+            <div class="vys-check">✓</div>
+            {{ end }}
+            <div class="vys-text">
+              <h4>{{ .Title }}</h4>
+              <p>{{ .Params.popis }}</p>
+              <span class="detail-hint" style="font-size:12px;color:var(--blue);margin-top:4px;display:inline-block">Číst více →</span>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+        {{ if $extra }}
+        <button class="show-more-btn" data-label="Zobrazit všechny výsledky ({{ len $vys }}) ↓" onclick="toggleMore(this,'all-vysledky')" style="margin:20px 0 0">Zobrazit všechny výsledky ({{ len $vys }}) ↓</button>
+        <div id="all-vysledky" style="display:none;margin-top:14px">
+          <div class="vysledky-list">
+            {{ range $extra }}
+            {{ $mid := printf "v_%s" .File.UniqueID }}
+            <div class="vys-item reveal" onclick="openModal('{{ $mid }}')">
+              {{ if .Params.foto }}
+              <div class="vys-foto-thumb" style="background-image:url({{ .Params.foto }})"></div>
+              {{ else }}
+              <div class="vys-check">✓</div>
+              {{ end }}
+              <div class="vys-text">
+                <h4>{{ .Title }}</h4>
+                <p>{{ .Params.popis }}</p>
+                <span class="detail-hint" style="font-size:12px;color:var(--blue);margin-top:4px;display:inline-block">Číst více →</span>
+              </div>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+      <div class="vysledky-panel reveal">
+        <h3>Spokojení obyvatelé</h3>
+        <p>Hodnocení z průzkumu MČ Praha–Čakovice, jaro 2025.</p>
+        <div class="pb-item"><div class="pb-top"><span>Celková spokojenost</span><span>82 %</span></div><div class="pb-track"><div class="pb-fill" style="width:82%"></div></div></div>
+        <div class="pb-item"><div class="pb-top"><span>Stav veřejných prostranství</span><span>76 %</span></div><div class="pb-track"><div class="pb-fill" style="width:76%"></div></div></div>
+        <div class="pb-item"><div class="pb-top"><span>Práce úřadu MČ</span><span>79 %</span></div><div class="pb-track"><div class="pb-fill" style="width:79%"></div></div></div>
+        <div class="pb-item"><div class="pb-top"><span>Bezpečnost ve čtvrti</span><span>71 %</span></div><div class="pb-track"><div class="pb-fill" style="width:71%"></div></div></div>
+      </div>
+    </div>
+  </div>
+</section>

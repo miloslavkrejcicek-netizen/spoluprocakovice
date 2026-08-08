@@ -1,0 +1,61 @@
+{{ $s := .Site.Data.settings }}
+{{ $akce := where .Site.RegularPages "Section" "akce" }}
+{{ $akce = sort $akce ".Params.datum" }}
+{{ $MS := slice "led" "úno" "bře" "dub" "kvě" "čvn" "čvc" "srp" "zář" "říj" "lis" "pro" }}
+{{ $TL := dict "setkani" "🤝 Setkání" "mitink" "🎤 Mítink" "brigada" "🛠 Brigáda" "kulturni" "🎭 Kulturní" "jine" "📌 Akce" }}
+{{ $now := now.Format "2006-01-02" }}
+<section id="akce" class="section">
+  <div class="section-inner">
+    <span class="section-tag reveal">Akce &amp; události</span>
+    <h2 class="reveal">{{ $s.akce_h2 }}</h2>
+    <p class="section-sub reveal">{{ $s.akce_intro }}</p>
+    {{ if $akce }}
+    <div class="akce-grid">
+      {{ range $akce }}
+      {{ $datumStr := printf "%v" .Params.datum }}
+      {{ $past := lt $datumStr $now }}
+      {{ $typLabel := index $TL .Params.typ | default "📌 Akce" }}
+      {{ $day := "?" }}
+      {{ $mon := "" }}
+      {{ if ge (len $datumStr) 10 }}
+        {{ $day = substr $datumStr 8 2 | strings.TrimLeft "0" }}
+        {{ $monNum := substr $datumStr 5 2 }}
+        {{ $monIdx := 0 }}
+        {{ if eq $monNum "01" }}{{ $monIdx = 0 }}{{ end }}
+        {{ if eq $monNum "02" }}{{ $monIdx = 1 }}{{ end }}
+        {{ if eq $monNum "03" }}{{ $monIdx = 2 }}{{ end }}
+        {{ if eq $monNum "04" }}{{ $monIdx = 3 }}{{ end }}
+        {{ if eq $monNum "05" }}{{ $monIdx = 4 }}{{ end }}
+        {{ if eq $monNum "06" }}{{ $monIdx = 5 }}{{ end }}
+        {{ if eq $monNum "07" }}{{ $monIdx = 6 }}{{ end }}
+        {{ if eq $monNum "08" }}{{ $monIdx = 7 }}{{ end }}
+        {{ if eq $monNum "09" }}{{ $monIdx = 8 }}{{ end }}
+        {{ if eq $monNum "10" }}{{ $monIdx = 9 }}{{ end }}
+        {{ if eq $monNum "11" }}{{ $monIdx = 10 }}{{ end }}
+        {{ if eq $monNum "12" }}{{ $monIdx = 11 }}{{ end }}
+        {{ $mon = index $MS $monIdx }}
+      {{ end }}
+      <div class="akce-card reveal{{ if $past }} past{{ end }}">
+        <div class="akce-top">
+          <div class="akce-date">
+            <span class="akce-day">{{ $day }}</span>
+            <span class="akce-month">{{ $mon }}</span>
+          </div>
+          <div>
+            <span class="akce-typ-badge">{{ $typLabel }}</span>
+            {{ if .Params.cas }}<div class="akce-time">{{ .Params.cas }} hod.</div>{{ end }}
+          </div>
+        </div>
+        <div class="akce-body">
+          <h3>{{ .Title }}</h3>
+          <div style="font-size:13px;color:var(--text-dim);line-height:1.6;margin-bottom:10px">{{ .Content | safeHTML }}</div>
+          {{ if .Params.misto }}<div class="akce-misto">📍 {{ .Params.misto }}</div>{{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    {{ else }}
+    <div class="akce-empty">Momentálně nejsou naplánované žádné akce.</div>
+    {{ end }}
+  </div>
+</section>

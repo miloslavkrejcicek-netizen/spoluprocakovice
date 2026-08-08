@@ -1,0 +1,52 @@
+{{ $kand := where .Site.RegularPages "Section" "kandidati" }}
+{{ $kand = sort $kand ".Params.rank" }}
+{{ $top4 := first 4 $kand }}
+<section id="kandidati" class="section">
+  <div class="section-inner">
+    <span class="section-tag reveal">Kandidáti</span>
+    <h2 class="reveal">Lidé, na které se můžete spolehnout</h2>
+    <p class="section-sub reveal">Naše kandidátka spojuje zkušené komunální politiky s odborníky z praxe.</p>
+    <div class="kandidati-grid">
+      {{ range $top4 }}
+      {{ $mid := printf "k_%s" .File.UniqueID }}
+      {{ $pc := "party-nez" }}{{ if eq .Params.strana "ODS" }}{{ $pc = "party-ods" }}{{ end }}{{ if eq .Params.strana "TOP09" }}{{ $pc = "party-top09" }}{{ end }}
+      {{ $ini := "" }}{{ range first 2 (split .Title " ") }}{{ if . }}{{ $ini = printf "%s%s" $ini (substr . 0 1) }}{{ end }}{{ end }}
+      <div class="kand-card reveal" onclick="openModal('{{ $mid }}')">
+        <div class="kand-photo"{{ if .Params.foto }} style="background-image:url({{ .Params.foto }});background-size:cover;background-position:center"{{ end }}>
+          {{ if not .Params.foto }}<span class="kand-photo-ini">{{ $ini }}</span>{{ end }}
+        </div>
+        <div class="kand-body">
+          <div class="kand-rank">č. {{ .Params.rank }}</div>
+          <h3>{{ .Title }}</h3>
+          <p>{{ .Params.popis }}</p>
+          <span class="kand-party {{ $pc }}">{{ .Params.strana }}</span>
+          <div class="detail-hint">Zobrazit detail →</div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    {{ if gt (len $kand) 4 }}
+    <button class="show-more-btn" data-label="Zobrazit všechny kandidáty ({{ len $kand }}) ↓" onclick="toggleMore(this,'all-kandidati')">Zobrazit všechny kandidáty ({{ len $kand }}) ↓</button>
+    <div id="all-kandidati" style="display:none;margin-top:32px">
+      <div class="kandidati-grid-all">
+        {{ range $kand }}
+        {{ $mid := printf "k_%s" .File.UniqueID }}
+        {{ $pc := "party-nez" }}{{ if eq .Params.strana "ODS" }}{{ $pc = "party-ods" }}{{ end }}{{ if eq .Params.strana "TOP09" }}{{ $pc = "party-top09" }}{{ end }}
+        {{ $ini := "" }}{{ range first 2 (split .Title " ") }}{{ if . }}{{ $ini = printf "%s%s" $ini (substr . 0 1) }}{{ end }}{{ end }}
+        <div class="kand-card-sm reveal" onclick="openModal('{{ $mid }}')">
+          <div class="kand-photo-sm"{{ if .Params.foto }} style="background-image:url({{ .Params.foto }});background-size:cover;background-position:center"{{ end }}>
+            {{ if not .Params.foto }}<span style="font-family:'Lora',serif;font-size:18px;font-weight:700;color:var(--blue)">{{ $ini }}</span>{{ end }}
+          </div>
+          <div class="kand-body-sm">
+            <div class="kand-rank" style="font-size:9px">č. {{ .Params.rank }}</div>
+            <div style="font-size:14px;font-weight:700;color:var(--text);margin-bottom:3px">{{ .Title }}</div>
+            <div style="font-size:11.5px;color:var(--text-dim);margin-bottom:6px">{{ .Params.popis }}</div>
+            <span class="kand-party {{ $pc }}" style="font-size:9px">{{ .Params.strana }}</span>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>

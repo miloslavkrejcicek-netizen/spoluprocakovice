@@ -1,0 +1,34 @@
+{{ $s := .Site.Data.settings }}
+<section id="kontakt" class="section">
+  <div class="section-inner">
+    <div class="kontakt-grid">
+      <div>
+        <span class="section-tag reveal">Kontakt</span>
+        <h2 class="reveal">Napište nám</h2>
+        <p class="section-sub reveal" style="margin-bottom:0">{{ $s.kontakt_text }}</p>
+        <div class="kontakt-links">
+          <a href="mailto:{{ $s.kontakt_email }}" class="kontakt-link reveal">
+            <div class="kontakt-link-icon">✉</div>{{ $s.kontakt_email }}
+          </a>
+          <a href="{{ $s.kontakt_fb }}" class="kontakt-link reveal" target="_blank" rel="noopener">
+            <div class="kontakt-link-icon" style="font-family:serif;font-weight:900">f</div>Facebook: Spolu pro Čakovice
+          </a>
+          <a href="#" class="kontakt-link reveal">
+            <div class="kontakt-link-icon">📍</div>{{ $s.kontakt_adresa }}
+          </a>
+        </div>
+      </div>
+      <div class="kontakt-form reveal">
+        <h3>Pošlete zprávu</h3>
+        <form action="https://formspree.io/f/xvzverzd" method="POST" id="contact-form">
+          <div class="kfg"><label>Jméno</label><input type="text" name="name" placeholder="Vaše jméno" required></div>
+          <div class="kfg"><label>E-mail</label><input type="email" name="email" placeholder="vas@email.cz" required></div>
+          <div class="kfg"><label>Zpráva</label><textarea name="message" placeholder="Váš dotaz nebo podnět..." required></textarea></div>
+          <button type="submit" class="btn-form" id="submit-btn">Odeslat zprávu →</button>
+          <div id="form-success" style="display:none;margin-top:12px;padding:12px 16px;background:#F0FDF4;border:1px solid #BBF7D0;border-radius:8px;font-size:13px;color:#15803D">✓ Zpráva odeslána! Ozveme se vám co nejdříve.</div>
+          <div id="form-error" style="display:none;margin-top:12px;padding:12px 16px;background:#FEF2F2;border:1px solid #FECACA;border-radius:8px;font-size:13px;color:#DC2626">Odeslání se nezdařilo. Zkuste to prosím znovu.</div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>

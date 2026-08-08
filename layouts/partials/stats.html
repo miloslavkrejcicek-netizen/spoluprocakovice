@@ -1,0 +1,11 @@
+{{ $s := .Site.Data.settings }}
+<div class="stats-strip">
+  <div class="stats-strip-inner">
+    {{ range $s.stats }}
+    <div class="stat-cell reveal">
+      <span class="stat-cell-num">{{ .num }}</span>
+      <span class="stat-cell-label">{{ .lbl }}</span>
+    </div>
+    {{ end }}
+  </div>
+</div>
