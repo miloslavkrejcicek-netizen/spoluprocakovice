@@ -1,3 +1,3 @@
 ---
-title: "Společně pro Čakovice"
+title: "Spolu pro Čakovice"
 ---

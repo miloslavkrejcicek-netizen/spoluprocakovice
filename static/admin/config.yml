@@ -48,6 +48,8 @@ collections:
     label: "Kandidáti"
     folder: "content/kandidati"
     create: true
+    nested:
+      index_file: "_index"
     slug: "{{fields.rank}}-{{slug}}"
     fields:
       - {label: "Číslo na kandidátce", name: "rank", widget: "number", value_type: "int"}
@@ -62,6 +64,8 @@ collections:
     label: "Program"
     folder: "content/program"
     create: true
+    nested:
+      index_file: "_index"
     slug: "{{fields.order}}-{{slug}}"
     fields:
       - {label: "Pořadí", name: "order", widget: "number", value_type: "int"}
@@ -74,6 +78,8 @@ collections:
     label: "Výsledky"
     folder: "content/vysledky"
     create: true
+    nested:
+      index_file: "_index"
     slug: "{{fields.order}}-{{slug}}"
     fields:
       - {label: "Pořadí", name: "order", widget: "number", value_type: "int"}
@@ -86,6 +92,8 @@ collections:
     label: "Akce"
     folder: "content/akce"
     create: true
+    nested:
+      index_file: "_index"
     slug: "{{fields.datum}}-{{slug}}"
     fields:
       - {label: "Název", name: "title", widget: "string"}
