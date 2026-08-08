@@ -1,8 +1,8 @@
 ---
 rank: 4
-title: "Kandidát č. 4"
-strana: "TOP09"
-popis: "Doplňte krátký popis."
+title: Ing. Miloslav Krejčíček
+strana: ODS
+popis: Doplňte krátký popis.
 kontakt: ""
 foto: ""
 ---

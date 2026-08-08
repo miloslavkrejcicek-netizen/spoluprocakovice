@@ -1,8 +1,8 @@
 ---
 rank: 3
-title: "Kandidát č. 3"
-strana: "ODS"
-popis: "Doplňte krátký popis."
+title: Martin Slavík
+strana: ODS
+popis: Doplňte krátký popis.
 kontakt: ""
 foto: ""
 ---

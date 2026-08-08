@@ -1,8 +1,8 @@
 ---
 rank: 2
-title: "Kandidát č. 2"
-strana: "TOP09"
-popis: "Doplňte krátký popis."
+title: Ing. Michal Motyčka, Ph.D.
+strana: TOP09
+popis: Doplňte krátký popis.
 kontakt: ""
 foto: ""
 ---
