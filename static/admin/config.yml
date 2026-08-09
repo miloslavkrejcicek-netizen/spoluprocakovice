@@ -90,7 +90,8 @@ collections:
     fields:
       - {label: "Název", name: "title", widget: "string"}
       - {label: "Datum", name: "datum", widget: "datetime", format: "YYYY-MM-DD", date_format: "DD. MM. YYYY", time_format: false}
-      - {label: "Čas", name: "cas", widget: "string", required: false}
+      - {label: "Čas od", name: "cas", widget: "string", required: false, hint: "Formát HH:MM, např. 10:00"}
+      - {label: "Čas do", name: "cas_do", widget: "string", required: false, hint: "Formát HH:MM, např. 12:00 — nepovinné"}
       - {label: "Místo", name: "misto", widget: "string"}
       - {label: "Typ", name: "typ", widget: "select", options: [{label: "Setkání s občany", value: "setkani"}, {label: "Mítink", value: "mitink"}, {label: "Brigáda", value: "brigada"}, {label: "Kulturní", value: "kulturni"}, {label: "Jiné", value: "jine"}]}
       - {label: "Popis", name: "body", widget: "markdown"}
