@@ -77,10 +77,13 @@
           {{ $escMisto := (.Params.misto | default "") | replace "," "\\," | replace ";" "\\;" }}
           {{ $escDesc := (.Content | plainify) | replace "," "\\," | replace ";" "\\;" | replace "\n" "\\n" }}
           {{ $ics := printf "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nBEGIN:VEVENT\r\nUID:%s\r\nDTSTART:%sT%s%s00\r\nDTEND:%sT%s%s00\r\nSUMMARY:%s\r\nLOCATION:%s\r\nDESCRIPTION:%s\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n" $uid $dateCompact $hh $mm $dateCompact $endHHStr $endMM $escTitle $escMisto $escDesc }}
-          <div class="akce-cal-group">
-            <a class="akce-cal-btn" href="{{ $gcalURL | safeURL }}" target="_blank" rel="noopener">📅 Google</a>
-            <a class="akce-cal-btn akce-cal-btn-alt" href="{{ $outlookURL | safeURL }}" target="_blank" rel="noopener">📅 Outlook</a>
-            <button type="button" class="akce-cal-btn akce-cal-btn-alt" data-ics="{{ $ics }}" data-filename="{{ .File.ContentBaseName }}.ics" onclick="downloadIcs(this)">📥 iOS / .ics</button>
+          <div class="akce-cal-dropdown">
+            <button type="button" class="akce-cal-btn" onclick="toggleCalMenu(this)">📅 Přidat do kalendáře ▾</button>
+            <div class="akce-cal-menu">
+              <a href="{{ $gcalURL | safeURL }}" target="_blank" rel="noopener">Google Kalendář</a>
+              <a href="{{ $outlookURL | safeURL }}" target="_blank" rel="noopener">Outlook</a>
+              <button type="button" data-ics="{{ $ics }}" data-filename="{{ .File.ContentBaseName }}.ics" onclick="downloadIcs(this)">Apple Kalendář / .ics</button>
+            </div>
           </div>
         </div>
       </div>
