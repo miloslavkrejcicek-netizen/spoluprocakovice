@@ -50,6 +50,21 @@
           <h3>{{ .Title }}</h3>
           <div style="font-size:13px;color:var(--text-dim);line-height:1.6;margin-bottom:10px">{{ .Content | safeHTML }}</div>
           {{ if .Params.misto }}<div class="akce-misto">📍 {{ .Params.misto }}</div>{{ end }}
+          {{ $dateCompact := replace $datumStr "-" "" }}
+          {{ $csRaw := .Params.cas | default "10:00" }}
+          {{ $hh := substr $csRaw 0 2 }}
+          {{ $mm := substr $csRaw 3 2 }}
+          {{ $hhTrimmed := $hh | strings.TrimLeft "0" }}
+          {{ if eq $hhTrimmed "" }}{{ $hhTrimmed = "0" }}{{ end }}
+          {{ $endHH := add (int $hhTrimmed) 2 }}
+          {{ if ge $endHH 24 }}{{ $endHH = sub $endHH 24 }}{{ end }}
+          {{ $endHHStr := printf "%02d" $endHH }}
+          {{ $uid := printf "%s@spoluprocakovice.cz" .File.UniqueID }}
+          {{ $escTitle := .Title | replace "," "\\," | replace ";" "\\;" }}
+          {{ $escMisto := .Params.misto | replace "," "\\," | replace ";" "\\;" }}
+          {{ $escDesc := (.Content | plainify) | replace "," "\\," | replace ";" "\\;" | replace "\n" "\\n" }}
+          {{ $ics := printf "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nBEGIN:VEVENT\r\nUID:%s\r\nDTSTART:%sT%s%s00\r\nDTEND:%sT%s%s00\r\nSUMMARY:%s\r\nLOCATION:%s\r\nDESCRIPTION:%s\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n" $uid $dateCompact $hh $mm $dateCompact $endHHStr $mm $escTitle $escMisto $escDesc }}
+          <a class="akce-cal-btn" href="data:text/calendar;charset=utf-8;base64,{{ $ics | base64Encode }}" download="{{ .File.ContentBaseName }}.ics">📅 Přidat do kalendáře</a>
         </div>
       </div>
       {{ end }}
