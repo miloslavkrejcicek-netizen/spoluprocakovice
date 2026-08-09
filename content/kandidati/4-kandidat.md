@@ -14,7 +14,7 @@ Dlouhodobě se věnuji tomu, co ovlivňuje každodenní život obyvatel – **b
 
 Jsem také **členem Finančního výboru Zastupitelstva MČ Praha-Čakovice a členem Školské rady ZŠ Dr. Edvarda Beneše**. Díky tomu se věnuji také hospodaření městské části, rozpočtu a otázkám spojeným se vzděláváním a fungováním místní školy.
 
-Vystudoval jsem ekonomii se zaměřením na **veřejnou správu a veřejné finance**. Profesně jsem prošel automobilovým průmyslem a následně bankovnictvím, kde působím více než deset let. Začínal jsem jako bankovní poradce, později jsem vedl pobočku a dnes pracuji jako privátní bankéř. Každodenně tak pracuji s lidmi, jejich potřebami, financemi a dlouhodobými rozhodnutími. Věřím, že právě **odpovědnost, schopnost hledat řešení a rozumně hospodařit s penězi** jsou důležité také při správě městské části.
+Vystudoval jsem ekonomii se zaměřením na **veřejnou správu a veřejné finance**. Profesně jsem prošel automobilovým průmyslem a následně bankovnictvím, kde působím více než 15 let. Začínal jsem jako bankovní poradce, později jsem vedl pobočku a dnes pracuji jako privátní bankéř. Každodenně tak pracuji s lidmi, jejich potřebami, financemi a dlouhodobými rozhodnutími. Věřím, že právě **odpovědnost, schopnost hledat řešení a rozumně hospodařit s penězi** jsou důležité také při správě městské části.
 
 Vedle komunální politiky se aktivně podílím také na životě našeho domu a okolí. Jsem kontrolním orgénem předsedy SVJ domu, kde žiji se svou rodinou, a mám tak zkušenost s řešením praktických problémů spojených s bydlením i fungováním sousedské komunity.
 
