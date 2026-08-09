@@ -2,6 +2,7 @@
 title: předvolební setkání sídliště Čakovice
 datum: 2026-10-07
 cas: 14:00
+cas_do: 19:00
 misto: konečná zastávka - sídliště Čakovice
 typ: setkani
 ---
