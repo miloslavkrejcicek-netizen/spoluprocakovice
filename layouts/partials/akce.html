@@ -69,9 +69,6 @@
           {{ end }}
           {{ $gcalDates := printf "%sT%s%s00/%sT%s%s00" $dateCompact $hh $mm $dateCompact $endHHStr $endMM }}
           {{ $gcalURL := printf "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%s&dates=%s&details=%s&location=%s&ctz=Europe/Prague" (.Title | urlquery) $gcalDates ((.Content | plainify) | urlquery) ((.Params.misto | default "") | urlquery) }}
-          {{ $outlookStart := printf "%sT%s:%s:00" $datumStr $hh $mm }}
-          {{ $outlookEnd := printf "%sT%s:%s:00" $datumStr $endHHStr $endMM }}
-          {{ $outlookURL := printf "https://outlook.live.com/calendar/0/deeplink/compose?path=/calendar/action/compose&rru=addevent&subject=%s&startdt=%s&enddt=%s&location=%s&body=%s" (.Title | urlquery) ($outlookStart | urlquery) ($outlookEnd | urlquery) ((.Params.misto | default "") | urlquery) ((.Content | plainify) | urlquery) }}
           {{ $uid := printf "%s@spoluprocakovice.cz" .File.UniqueID }}
           {{ $escTitle := replace (replace .Title "," "\\,") ";" "\\;" }}
           {{ $escMisto := replace (replace (.Params.misto | default "") "," "\\,") ";" "\\;" }}
@@ -81,8 +78,7 @@
             <button type="button" class="akce-cal-btn" onclick="toggleCalMenu(this)">📅 Přidat do kalendáře ▾</button>
             <div class="akce-cal-menu">
               <a href="{{ $gcalURL | safeURL }}" target="_blank" rel="noopener">Google Kalendář</a>
-              <a href="{{ $outlookURL | safeURL }}" target="_blank" rel="noopener">Outlook</a>
-              <button type="button" data-ics="{{ $ics }}" data-filename="{{ .File.ContentBaseName }}.ics" onclick="downloadIcs(this)">Apple Kalendář / .ics</button>
+              <button type="button" data-ics="{{ $ics }}" data-filename="{{ .File.ContentBaseName }}.ics" onclick="downloadIcs(this)">Outlook / Apple Kalendář (.ics)</button>
             </div>
           </div>
         </div>
