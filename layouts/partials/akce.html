@@ -73,9 +73,9 @@
           {{ $outlookEnd := printf "%sT%s:%s:00" $datumStr $endHHStr $endMM }}
           {{ $outlookURL := printf "https://outlook.live.com/calendar/0/deeplink/compose?path=/calendar/action/compose&rru=addevent&subject=%s&startdt=%s&enddt=%s&location=%s&body=%s" (.Title | urlquery) ($outlookStart | urlquery) ($outlookEnd | urlquery) ((.Params.misto | default "") | urlquery) ((.Content | plainify) | urlquery) }}
           {{ $uid := printf "%s@spoluprocakovice.cz" .File.UniqueID }}
-          {{ $escTitle := .Title | replace "," "\\," | replace ";" "\\;" }}
-          {{ $escMisto := (.Params.misto | default "") | replace "," "\\," | replace ";" "\\;" }}
-          {{ $escDesc := (.Content | plainify) | replace "," "\\," | replace ";" "\\;" | replace "\n" "\\n" }}
+          {{ $escTitle := replace (replace .Title "," "\\,") ";" "\\;" }}
+          {{ $escMisto := replace (replace (.Params.misto | default "") "," "\\,") ";" "\\;" }}
+          {{ $escDesc := replace (replace (replace (.Content | plainify) "," "\\,") ";" "\\;") "\n" "\\n" }}
           {{ $ics := printf "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nBEGIN:VEVENT\r\nUID:%s\r\nDTSTART:%sT%s%s00\r\nDTEND:%sT%s%s00\r\nSUMMARY:%s\r\nLOCATION:%s\r\nDESCRIPTION:%s\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n" $uid $dateCompact $hh $mm $dateCompact $endHHStr $endMM $escTitle $escMisto $escDesc }}
           <div class="akce-cal-dropdown">
             <button type="button" class="akce-cal-btn" onclick="toggleCalMenu(this)">📅 Přidat do kalendáře ▾</button>
