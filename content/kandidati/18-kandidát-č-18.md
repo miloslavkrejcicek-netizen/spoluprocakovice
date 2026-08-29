@@ -1,7 +1,7 @@
 ---
 rank: 18
-title: Kandidát č. 18
+title: Mgr. Petr Staroštík
 strana: ODS
-popis: .
+popis: Advokátní koncipient, právník
 ---
 .
