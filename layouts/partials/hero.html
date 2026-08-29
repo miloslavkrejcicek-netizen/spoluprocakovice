@@ -2,8 +2,13 @@
 <section id="hero">
   <div class="hero-giant-mark">SPOLU</div>
   <div class="hero-inner">
+    {{ if $s.volebni_cislo }}
+    <div class="ballot-badge">
+      <span class="ballot-badge-label">Volte</span>
+      <span class="ballot-badge-num">{{ $s.volebni_cislo }}</span>
+    </div>
+    {{ end }}
     <div class="hero-eyebrow">
-      <span class="hero-eyebrow-num">26</span>
       <span class="hero-eyebrow-text">{{ $s.eyebrow }}</span>
     </div>
     <h1 class="hero-title">{{ $s.hero_line1 }} {{ $s.hero_line2 }}</h1>

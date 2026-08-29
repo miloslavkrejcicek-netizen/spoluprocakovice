@@ -20,6 +20,7 @@ collections:
         fields:
           - {label: "Logo — verze pro světlé pozadí (menu)", name: "logo", widget: "image", required: false}
           - {label: "Logo — verze pro tmavé pozadí (patička)", name: "logo_footer", widget: "image", required: false}
+          - {label: "Volební číslo (razítko na úvodní straně)", name: "volebni_cislo", widget: "string"}
           - {label: "Eyebrow text", name: "eyebrow", widget: "string"}
           - {label: "Nadpis řádek 1", name: "hero_line1", widget: "string"}
           - {label: "Nadpis řádek 2 (modrý)", name: "hero_line2", widget: "string"}
