@@ -4,7 +4,7 @@ title: Ing. Miloslav Krejčíček
 strana: ODS
 popis: Radní MČ Praha–Čakovice, odborník na bytovou a sociální politiku
 kontakt: miloslav.krejcicek@cakovice.cz
-foto: /images/img_2735.jpg
+foto: /images/img_2535.jpg
 ---
 **Radní MČ Praha-Čakovice | privátní bankéř**
 
