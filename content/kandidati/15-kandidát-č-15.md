@@ -1,7 +1,7 @@
 ---
 rank: 15
-title: Kandidát č. 15
+title: Jiří Hlavatý, MBA
 strana: ODS
-popis: .
+popis: Konzultant v oboru IT, umělé inteligence a digitalizace procesů
 ---
 .

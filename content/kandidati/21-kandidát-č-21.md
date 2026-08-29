@@ -1,7 +1,7 @@
 ---
 rank: 21
-title: Kandidát č. 21
+title: Jakub Nejedlý, PFP
 strana: ODS
-popis: .
+popis: Podnikatel ve financích
 ---
 .

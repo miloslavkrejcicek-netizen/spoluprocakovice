@@ -1,9 +1,9 @@
 ---
 rank: 5
-title: "Kandidát č. 5"
-strana: "nezávislý"
-popis: "Doplňte krátký popis."
+title: Mgr. at Mgr. Anna Syslová
+strana: nezávislý
+popis: Referentka investičního odboru
 kontakt: ""
-foto: ""
+foto: /images/img_2579.jpg
 ---
 Doplňte podrobný životopis a politické priority kandidáta.

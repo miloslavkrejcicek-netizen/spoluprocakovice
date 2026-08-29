@@ -1,7 +1,7 @@
 ---
 rank: 19
-title: Kandidát č. 19
+title: Aneta Vojáčková
 strana: ODS
-popis: .
+popis: Trenérka stolního tenisu
 ---
 .
