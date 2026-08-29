@@ -1,7 +1,8 @@
 ---
 rank: 11
-title: Kandidát č. 11
+title: Jan Kadlec
 strana: nezávislý
-popis: .
+popis: Produkční/obchodní zástupce, zastupitel MČ
+kontakt: kadlec@cakovice.cz
 ---
 .
