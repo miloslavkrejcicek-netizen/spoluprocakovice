@@ -1,7 +1,8 @@
 ---
 rank: 6
-title: "Kandidát č. 6"
-strana: "TOP09"
-popis: "."
+title: Ludmila Vargová
+strana: nezávislý
+popis: ředitelka MŠ Čakovice III, zastupitelka MČ
+kontakt: vargova@cakovice.cz
 ---
 .
