@@ -1,7 +1,7 @@
 ---
 rank: 20
-title: Kandidát č. 20
+title: Matěj Enc
 strana: ODS
-popis: .
+popis: Pracovník lesní správy
 ---
 .
