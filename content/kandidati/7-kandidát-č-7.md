@@ -1,7 +1,8 @@
 ---
 rank: 7
-title: Kandidát č. 7
+title: Lukáš Horský
 strana: ODS
-popis: .
+popis: Velitel hasičů, zastupitel MČ, referent
+kontakt: horsky@cakovice.cz
 ---
 .
