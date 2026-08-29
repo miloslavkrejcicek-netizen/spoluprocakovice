@@ -40,6 +40,7 @@ collections:
           - {label: "Akce — podtitulek", name: "akce_intro", widget: "text"}
           - {label: "Kontaktní e-mail", name: "kontakt_email", widget: "string"}
           - {label: "Facebook URL", name: "kontakt_fb", widget: "string"}
+          - {label: "Instagram URL (nechte prázdné, dokud účet neběží)", name: "kontakt_instagram", widget: "string", required: false}
           - {label: "Adresa", name: "kontakt_adresa", widget: "string"}
           - {label: "Kontaktní text", name: "kontakt_text", widget: "text"}
           - {label: "Zadavatel politické reklamy (zákon 491/2001 Sb.)", name: "legal_zadavatel", widget: "string"}

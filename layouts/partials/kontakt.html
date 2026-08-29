@@ -13,6 +13,11 @@
           <a href="{{ $s.kontakt_fb }}" class="kontakt-link reveal" target="_blank" rel="noopener">
             <div class="kontakt-link-icon" style="font-family:serif;font-weight:900">f</div>Facebook: Spolu pro Čakovice
           </a>
+          {{ if $s.kontakt_instagram }}
+          <a href="{{ $s.kontakt_instagram }}" class="kontakt-link reveal" target="_blank" rel="noopener">
+            <div class="kontakt-link-icon">📷</div>Instagram: Spolu pro Čakovice
+          </a>
+          {{ end }}
           <a href="#" class="kontakt-link reveal">
             <div class="kontakt-link-icon">📍</div>{{ $s.kontakt_adresa }}
           </a>
