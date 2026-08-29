@@ -1,7 +1,7 @@
 ---
 rank: 17
-title: Kandidát č. 17
+title: Anna Raková
 strana: ODS
-popis: .
+popis: Elektromechanička v důchodu
 ---
 .
