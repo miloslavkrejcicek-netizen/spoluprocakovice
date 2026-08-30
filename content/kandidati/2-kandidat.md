@@ -4,7 +4,7 @@ title: Ing. Michal Motyčka, Ph.D.
 strana: TOP09
 popis: 2. zástupce starosty MČ Praha–Čakovice, odborník na finance a sport
 kontakt: motycka@cakovice.cz
-foto: /images/img_2723.jpg
+foto: /images/chatgpt-image-30.-8.-2026-17_26_47.png
 ---
 **Místostarosta MČ Praha-Čakovice | vysokoškolský pedagog | starosta SDH Miškovice**
 
