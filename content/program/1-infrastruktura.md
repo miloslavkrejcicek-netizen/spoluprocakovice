@@ -5,6 +5,7 @@ title: Doprava a infrastruktura
 popis: Budeme pokračovat v modernizaci dopravy – čtyřproudá Kostelecká, opravy
   vedlejších ulic a chodníků, nové vozovky v lokalitě U Párníků a podpora rychlé
   kolejové dopravy včetně tramvaje, metra a železnice.
+zarovnani: justify
 ---
 * 🛣️ **Čtyřproudová Kostelecká**
 
