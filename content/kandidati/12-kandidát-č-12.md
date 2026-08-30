@@ -3,6 +3,6 @@ rank: 12
 title: Kateřina Slavíková
 strana: nezávislý
 popis: Studentka
-foto: /images/fotka_2451_800x800.jpg
+foto: /images/chatgpt-image-30.-8.-2026-17_34_29.png
 ---
 .
