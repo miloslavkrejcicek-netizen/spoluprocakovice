@@ -1,5 +1,5 @@
 ---
-title: Setkání Třeboradice - u kostela
+title: Setkání s občany – Třeboradice
 datum: 2026-10-05
 cas: 15:30
 cas_do: 18:00
