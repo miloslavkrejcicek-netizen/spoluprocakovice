@@ -4,7 +4,7 @@ title: Ing. Jiří Vintiška
 strana: ODS
 popis: Starosta MČ Praha–Čakovice, odborník na komunální správu, dopravu a školství
 kontakt: jiri.vintiska@cakovice.cz
-foto: /images/img_2743.jpg
+foto: /images/chatgpt-image-30.-8.-2026-18_33_17.png
 ---
 **Starosta MČ Praha-Čakovice**
 
