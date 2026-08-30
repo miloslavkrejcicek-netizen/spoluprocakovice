@@ -66,6 +66,7 @@ collections:
       - {label: "Krátký popis (na kartě)", name: "popis", widget: "text"}
       - {label: "Kontaktní e-mail", name: "kontakt", widget: "string", required: false}
       - {label: "Fotka", name: "foto", widget: "image", required: false}
+      - {label: "Zarovnání detailního textu", name: "zarovnani", widget: "select", options: [{label: "Vlevo", value: "left"}, {label: "Do bloku", value: "justify"}], default: "left", required: false, hint: "Na mobilu se 'Do bloku' automaticky přepne zpět na 'Vlevo', aby nevznikaly velké mezery mezi slovy."}
       - {label: "Detailní bio", name: "body", widget: "markdown"}
 
   - name: "program"
@@ -78,6 +79,7 @@ collections:
       - {label: "Ikona (emoji)", name: "icon", widget: "string"}
       - {label: "Název", name: "title", widget: "string"}
       - {label: "Krátký text (na kartě)", name: "popis", widget: "text"}
+      - {label: "Zarovnání detailního textu", name: "zarovnani", widget: "select", options: [{label: "Vlevo", value: "left"}, {label: "Do bloku", value: "justify"}], default: "left", required: false, hint: "Na mobilu se 'Do bloku' automaticky přepne zpět na 'Vlevo', aby nevznikaly velké mezery mezi slovy."}
       - {label: "Detailní text", name: "body", widget: "markdown"}
 
   - name: "vysledky"
@@ -90,6 +92,7 @@ collections:
       - {label: "Název", name: "title", widget: "string"}
       - {label: "Krátký popis", name: "popis", widget: "text"}
       - {label: "Fotka", name: "foto", widget: "image", required: false}
+      - {label: "Zarovnání detailního textu", name: "zarovnani", widget: "select", options: [{label: "Vlevo", value: "left"}, {label: "Do bloku", value: "justify"}], default: "left", required: false, hint: "Na mobilu se 'Do bloku' automaticky přepne zpět na 'Vlevo', aby nevznikaly velké mezery mezi slovy."}
       - {label: "Detailní text", name: "body", widget: "markdown"}
 
   - name: "akce"
