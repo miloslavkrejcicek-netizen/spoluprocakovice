@@ -6,4 +6,7 @@ cas_do: 18:00
 misto: U kostela, Praha 9 - Třeboradice.
 typ: setkani
 ---
-Převolební setkání s občany. Představení kandidátů a dobré občerstvení.
+**Přijďte se potkat v Třeboradicích.**\
+Přijďte si popovídat s našimi kandidáty o tom, co se v Třeboradicích daří a co bychom chtěli v příštích letech posunout.
+
+Budeme rádi za vaše otázky, podněty i připomínky. A samozřejmě nebude chybět drobné občerstvení.
