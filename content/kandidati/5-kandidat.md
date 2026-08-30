@@ -4,6 +4,6 @@ title: Mgr. at Mgr. Anna Syslová
 strana: nezávislý
 popis: Referentka investičního odboru
 kontakt: ""
-foto: /images/img_2579.jpg
+foto: /images/chatgpt-image-30.-8.-2026-17_36_45.png
 ---
 Doplňte podrobný životopis a politické priority kandidáta.
