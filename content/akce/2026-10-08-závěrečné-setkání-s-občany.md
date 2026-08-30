@@ -1,5 +1,5 @@
 ---
-title: Staré Čakovice - setkání u kostela
+title: Závěrečné setkání – Staré Čakovice
 datum: 2026-10-08
 cas: 15:00
 cas_do: 18:00
