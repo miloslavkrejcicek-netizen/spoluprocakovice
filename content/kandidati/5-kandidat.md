@@ -1,6 +1,6 @@
 ---
 rank: 5
-title: Mgr. at Mgr. Anna Syslová
+title: Mgr. et Mgr. Anna Syslová
 strana: nezávislý
 popis: Referentka investičního odboru
 kontakt: ""
