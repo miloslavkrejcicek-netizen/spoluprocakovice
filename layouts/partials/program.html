@@ -1,8 +1,6 @@
 {{ $s := .Site.Data.settings }}
 {{ $prog := where .Site.RegularPages "Section" "program" }}
 {{ $prog = sort $prog ".Params.order" }}
-{{ $top3 := first 3 $prog }}
-{{ $extra := after 3 $prog }}
 <section id="program" class="section">
   <div class="section-inner">
     <span class="section-tag reveal">Program</span>
@@ -12,7 +10,7 @@
     <div class="program-vize reveal">{{ $s.program_vize }}</div>
     {{ end }}
     <div class="program-grid">
-      {{ range $top3 }}
+      {{ range $prog }}
       {{ $mid := printf "p_%s" .File.UniqueID }}
       <div class="prog-card reveal" onclick="openModal('{{ $mid }}')">
         <div class="prog-icon">{{ .Params.icon }}</div>
@@ -22,21 +20,5 @@
       </div>
       {{ end }}
     </div>
-    {{ if $extra }}
-    <button class="show-more-btn" data-label="Zobrazit celý program ({{ len $prog }} bodů) ↓" onclick="toggleMore(this,'all-prog')">Zobrazit celý program ({{ len $prog }} bodů) ↓</button>
-    <div id="all-prog" style="display:none;margin-top:20px">
-      <div class="program-grid">
-        {{ range $extra }}
-        {{ $mid := printf "p_%s" .File.UniqueID }}
-        <div class="prog-card reveal" onclick="openModal('{{ $mid }}')">
-          <div class="prog-icon">{{ .Params.icon }}</div>
-          <h3>{{ .Title }}</h3>
-          <p>{{ .Params.popis }}</p>
-          <span class="detail-hint">Číst více →</span>
-        </div>
-        {{ end }}
-      </div>
-    </div>
-    {{ end }}
   </div>
 </section>

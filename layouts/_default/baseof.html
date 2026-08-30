@@ -60,7 +60,7 @@ h2{font-size:clamp(28px,3.6vw,46px);line-height:1.05;color:var(--navy-deep);marg
 .detail-hint{font-size:13px;color:var(--teal-dark);font-weight:700;margin-top:12px;display:inline-block;font-family:'Barlow Condensed',sans-serif;text-transform:uppercase;letter-spacing:.5px}
 .program-vize{background:var(--navy-deep);color:#fff;border-radius:16px;padding:28px 32px;margin-bottom:48px;font-size:16px;line-height:1.75;position:relative}
 .program-vize::before{content:'';position:absolute;left:0;top:0;bottom:0;width:6px;background:var(--teal);border-radius:16px 0 0 16px}
-.program-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.program-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:16px}
 .prog-card{background:white;border:1.5px solid var(--border);border-radius:16px;padding:32px 28px;transition:all .22s;cursor:pointer}
 .prog-card:hover{border-color:var(--teal);box-shadow:0 10px 32px rgba(42,209,199,.18);transform:translateY(-4px)}
 .prog-icon{width:52px;height:52px;background:var(--teal-tint);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:24px;margin-bottom:18px}
@@ -163,7 +163,9 @@ footer{background:var(--navy-deep);color:rgba(255,255,255,.85)}
 @media(max-width:640px){.modal-body-text.align-justify{text-align:left;hyphens:none}}
 .modal-body-text p{margin-bottom:12px}
 .reveal{opacity:0;transform:translateY(22px);transition:opacity .55s ease,transform .55s ease}.reveal.visible{opacity:1;transform:none}
-@media(max-width:960px){.program-grid{grid-template-columns:1fr 1fr}.kandidati-grid{grid-template-columns:repeat(2,1fr)}.vysledky-grid{grid-template-columns:1fr}.kontakt-grid{grid-template-columns:1fr}.stats-strip-inner{grid-template-columns:repeat(2,1fr)}.akce-grid{grid-template-columns:1fr 1fr}.nav-links{display:none}.hero-giant-mark{display:none}.kandidati-grid-all{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:1180px){.program-grid{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:960px){.kandidati-grid{grid-template-columns:repeat(2,1fr)}.vysledky-grid{grid-template-columns:1fr}.kontakt-grid{grid-template-columns:1fr}.stats-strip-inner{grid-template-columns:repeat(2,1fr)}.akce-grid{grid-template-columns:1fr 1fr}.nav-links{display:none}.hero-giant-mark{display:none}.kandidati-grid-all{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:700px){.program-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:580px){.program-grid,.kandidati-grid,.akce-grid{grid-template-columns:1fr}.stats-strip-inner{grid-template-columns:1fr}.kandidati-grid-all{grid-template-columns:repeat(2,1fr)}.modal-content{padding:8px 20px 24px}.modal-kand-top{flex-direction:column}}
 </style>
 </head>
