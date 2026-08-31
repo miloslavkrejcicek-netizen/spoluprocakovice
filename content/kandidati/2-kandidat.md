@@ -6,7 +6,7 @@ popis: 2. zástupce starosty MČ Praha–Čakovice, odborník na finance a sport
 kontakt: motycka@cakovice.cz
 foto: /images/chatgpt-image-30.-8.-2026-17_26_47.png
 ---
-**Místostarosta MČ Praha-Čakovice | vysokoškolský pedagog | starosta SDH Miškovice**
+**Místostarosta MČ Praha-Čakovice | ředitel hotelu | starosta SDH Miškovice**
 
 V Čakovicích jsem našel svůj domov a už řadu let se podílím na jejich rozvoji. Jako místostarosta se dlouhodobě věnuji především **financím, rozpočtu a hospodaření městské části**. Věřím, že právě odpovědné hospodaření je základem toho, aby si městská část mohla dovolit investovat do toho, co její obyvatelé skutečně potřebují.
 
@@ -16,6 +16,6 @@ V komunální politice působím již **16 let**. Za tu dobu jsem měl možnost
 
 Velkou součástí mého života jsou také **Miškovice a dobrovolní hasiči**. Jako starosta SDH Miškovice se podílím nejen na udržování dlouholeté tradice jednoho z nejstarších místních spolků, ale také na organizaci společenského života a zajišťování požární ochrany a bezpečnosti.
 
-V Čakovicích mám nejraději jejich **sportovní možnosti, parky a lesoparky**. Sám mám blízko ke sportu, historii a gastronomii. Největší radostí a zároveň nejdůležitější součástí mého života jsou ale moje dvě dcery – jedenáctiletá dvojčata – a moje žena, se kterou jsme spolu od čtrnácti let.
+V Čakovicích mám nejraději jejich **sportovní možnosti, parky a lesoparky**. Sám mám blízko ke sportu, historii a gastronomii. Největší radostí a zároveň nejdůležitější součástí mého života jsou ale moje dvě dcery – dvojčata – a moje žena, se kterou jsme spolu od čtrnácti let.
 
 **Moje životní heslo? Nemožné neexistuje. A za pravdu má smysl bojovat.**
