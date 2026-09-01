@@ -6,7 +6,7 @@ popis: Ředitelka MŠ Čakovice III, zastupitelka MČ
 kontakt: vargova@cakovice.cz
 foto: /images/chatgpt-image-30.-8.-2026-17_41_36.png
 ---
-Zastupitelka MČ Praha-Čakovice | ředitelka MS Cakovice III
+**Zastupitelka MČ Praha-Čakovice | ředitelka MŠ Čakovice III**
 
 **Oblasti, kterým se chci věnovat:**\
 Předškolní výchova, školství a podpora rodin s dětmi
