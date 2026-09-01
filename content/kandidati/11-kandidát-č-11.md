@@ -22,7 +22,7 @@ Narodil jsem se v Praze a od narození jsem žil v sousedních Letňanech. V Ča
 
 Po maturitě na střední polygrafické škole jsem nastoupil do zaměstnání a celý svůj profesní život jsem zůstal věrný vystudovanému oboru. Krátce po přestěhování na čakovické sídliště jsem se stal předsedou SVJ domu, kde žije naše rodina, a tuto funkci zastávám dodnes. Díky tomu mám dlouholetou zkušenost s řešením konkrétních problémů, které lidé na sídlišti každodenně řeší.
 
-Aktivně se zapojuji také do práce v komisi pro sídliště a do života naší městské části. Podílel jsem se například na organizaci obou ročníků Drakiády nebo vánočního rozsvěcování stromečku v Bermance. Baví mě, když se lidé mohou potkávat, trávit spolu čas a mít kolem sebe příjemné prostředí pro život.
+Aktivně se zapojuji také do práce v komisi pro sídliště a do života naší městské části. Podílel jsem se například na organizaci šesti ročníků Drakiády nebo vánočního rozsvěcování stromečku v Bermance. Baví mě, když se lidé mohou potkávat, trávit spolu čas a mít kolem sebe příjemné prostředí pro život.
 
 Za důležité považuji další rozvoj sídliště, kvalitní veřejný prostor a dostatek možností pro smysluplné trávení volného času. Zároveň bych chtěl přispět k tomu, aby byla v naší městské části dobře dostupná také péče a služby související se zdravím.
 
