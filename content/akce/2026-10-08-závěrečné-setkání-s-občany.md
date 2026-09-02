@@ -1,8 +1,8 @@
 ---
 title: Závěrečné setkání – Staré Čakovice
 datum: 2026-10-08
-cas: 15:00
-cas_do: 18:00
+cas: 15:30
+cas_do: 18:30
 misto: Čakovice - kostel
 typ: setkani
 ---
