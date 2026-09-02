@@ -89,7 +89,7 @@ h2{font-size:clamp(28px,3.6vw,46px);line-height:1.05;color:var(--navy-deep);marg
 .kand-photo-sm{width:100%;aspect-ratio:1;background:var(--navy);background-size:cover;background-position:center;display:flex;align-items:center;justify-content:center}
 .kand-body-sm{padding:13px 15px}
 #vysledky{background:white}
-.vysledky-list{display:flex;flex-direction:column;gap:14px}
+.vysledky-list{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
 .vys-item{display:flex;align-items:flex-start;gap:16px;padding:20px 22px;background:white;border:1.5px solid var(--border);border-radius:14px;border-left:4px solid var(--teal);transition:all .2s;cursor:pointer}
 .vys-item:hover{border-left-color:var(--navy);box-shadow:0 6px 20px rgba(11,53,86,.08);transform:translateX(4px)}
 .vys-check{width:30px;height:30px;background:var(--navy);border-radius:50%;display:flex;align-items:center;justify-content:center;color:var(--teal);font-size:13px;font-weight:700;flex-shrink:0}
@@ -157,8 +157,8 @@ footer{background:var(--navy-deep);color:rgba(255,255,255,.85)}
 .reveal{opacity:0;transform:translateY(22px);transition:opacity .55s ease,transform .55s ease}.reveal.visible{opacity:1;transform:none}
 @media(max-width:1180px){.program-grid,.kandidati-grid{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:960px){.kontakt-grid{grid-template-columns:1fr}.stats-strip-inner{grid-template-columns:repeat(2,1fr)}.akce-grid{grid-template-columns:1fr 1fr}.nav-links{display:none}.hero-giant-mark{display:none}.kandidati-grid-all{grid-template-columns:repeat(3,1fr)}}
-@media(max-width:700px){.program-grid,.kandidati-grid{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:580px){.program-grid,.kandidati-grid,.akce-grid{grid-template-columns:1fr}.stats-strip-inner{grid-template-columns:1fr}.kandidati-grid-all{grid-template-columns:repeat(2,1fr)}.modal-content{padding:8px 20px 24px}.modal-kand-top{flex-direction:column}}
+@media(max-width:700px){.program-grid,.kandidati-grid,.vysledky-list{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:580px){.program-grid,.kandidati-grid,.akce-grid,.vysledky-list{grid-template-columns:1fr}.stats-strip-inner{grid-template-columns:1fr}.kandidati-grid-all{grid-template-columns:repeat(2,1fr)}.modal-content{padding:8px 20px 24px}.modal-kand-top{flex-direction:column}}
 </style>
 </head>
 <body>
