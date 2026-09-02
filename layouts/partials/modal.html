@@ -27,8 +27,9 @@ MODALS[{{ $mid | jsonify | safeJS }}] = {{ $html | jsonify | safeJS }};
 {{ $photoHTML := printf "<span style=\"font-family:'Anton',sans-serif;font-size:32px;color:#2AD1C7\">%s</span>" $ini }}
 {{ if .Params.foto }}{{ $photoHTML = printf "<img src=\"%s\" alt=\"%s\" style=\"width:100%%;height:100%%;object-fit:cover\">" .Params.foto .Title }}{{ end }}
 {{ $kontaktHTML := "" }}{{ if .Params.kontakt }}{{ $kontaktHTML = printf "<div style=\"margin-top:12px;font-size:13px;color:#6C8397\">✉ <a href=\"mailto:%s\" style=\"color:#0B3556\">%s</a></div>" .Params.kontakt .Params.kontakt }}{{ end }}
+{{ $linkedinHTML := "" }}{{ if .Params.linkedin }}{{ $linkedinHTML = printf "<div style=\"margin-top:8px;font-size:13px;color:#6C8397\">🔗 <a href=\"%s\" target=\"_blank\" rel=\"noopener\" style=\"color:#0B3556\">LinkedIn</a></div>" .Params.linkedin }}{{ end }}
 {{ $alignClass := "" }}{{ if eq .Params.zarovnani "justify" }}{{ $alignClass = "align-justify" }}{{ end }}
-{{ $html := printf "<div class=\"modal-kand\"><div class=\"modal-kand-top\"><div class=\"modal-kand-photo\">%s</div><div><div class=\"kand-rank\" style=\"margin-bottom:6px\">Kandidát č. %v · %s</div><h2 style=\"font-size:26px;margin-bottom:8px\">%s</h2><span class=\"kand-party %s\">%s</span>%s</div></div><div class=\"modal-body-text %s\">%s</div></div>" $photoHTML .Params.rank .Params.strana .Title $pc .Params.strana $kontaktHTML $alignClass (.Content | safeHTML) }}
+{{ $html := printf "<div class=\"modal-kand\"><div class=\"modal-kand-top\"><div class=\"modal-kand-photo\">%s</div><div><div class=\"kand-rank\" style=\"margin-bottom:6px\">Kandidát č. %v · %s</div><h2 style=\"font-size:26px;margin-bottom:8px\">%s</h2><span class=\"kand-party %s\">%s</span>%s%s</div></div><div class=\"modal-body-text %s\">%s</div></div>" $photoHTML .Params.rank .Params.strana .Title $pc .Params.strana $kontaktHTML $linkedinHTML $alignClass (.Content | safeHTML) }}
 MODALS[{{ $mid | jsonify | safeJS }}] = {{ $html | jsonify | safeJS }};
 {{ end }}
 {{ range $vys }}
