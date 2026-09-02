@@ -1,6 +1,6 @@
 ---
 order: 1
-title: 🚗 Doprava, ulice a bezpečnější pohyb
+title: Doprava, ulice a bezpečnější pohyb
 popis: >
   Modernizujeme dopravu a veřejný prostor – opravili jsme ulice a chodníky,
   přidali parkovací místa, vybudovali nové pěší a cyklistické propojení i lávku
