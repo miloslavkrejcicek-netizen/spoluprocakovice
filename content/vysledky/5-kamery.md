@@ -7,11 +7,9 @@ popis: Posilujeme kulturu, komunitní život i bezpečí – navýšili jsme pod
   bezpečnostní programy pro děti a mládež.
 foto: ""
 ---
-
-
 * výrazně jsme navýšili **peníze na kulturu** – dnes směřuje do této oblasti přibližně **5 milionů Kč ročně**
 * posílili jsme tradiční akce a přinesli **nové kulturní a komunitní projekty**
-* podpořili jsme akce jako **Zámek Fest, Revolution Train, Bunkr a další**
+* podpořili jsme akce jako **Revolution Train, Zámek Fest, Drakiáda, Bunkr  a další**
 * rozvíjíme **komunitní život** v celé městské části
 * posílili jsme **prevenci kriminality a bezpečnostní prevenci dětí a mládeže**
 * spolupracujeme se školami a složkami **IZS**
