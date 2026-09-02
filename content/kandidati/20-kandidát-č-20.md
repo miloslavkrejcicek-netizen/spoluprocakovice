@@ -5,7 +5,7 @@ strana: ODS
 popis: Pracovník lesní správy
 foto: /images/img_2370_800x800.jpg
 ---
-**pracovník lesní správy**
+**Pracovník lesní správy**
 
 **Oblasti, kterým se chci věnovat:**\
 Veřejná zeleň, parky a životní prostředí
