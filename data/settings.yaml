@@ -11,18 +11,18 @@ hero_btn1: Náš program →
 hero_btn2: Kandidáti
 stats:
   - num: "21"
-    lbl: Kandidátů na listině
-  - num: "10"
-    lbl: Zkušených kandidátů v zastupitelstvu
+    lbl: kandidátů na listině
+  - num: "11"
+    lbl: kandidátů se zkušeností v zastupitelstvu
   - num: "#1"
-    lbl: "Lídr: Ing. Jiří Vintiška"
+    lbl: "lídr: Ing. Jiří Vintiška"
 program_h2: Co prosazujeme
 program_intro: >-
   Naše priority vycházejí z každodenní reality Čakovic, Miškovic a Třeboradic.
   Chceme navázat na to, co se osvědčilo, a zároveň posunout naši městskou část
   dál.
 
-  Žádné sliby — jen konkrétní cíle, které umíme splnit.
+  Žádné prázdné sliby — konkrétní cíle, které chceme v příštích čtyřech letech prosadit.
 program_vize: >-
   VOLEBNÍ PROGRAM:
 
@@ -31,15 +31,16 @@ program_vize: >-
 
 
   Pět oblastí, které budou určovat naše priority v příštích čtyřech letech. Od dopravy a bezpečnosti přes školy a sport až po kvalitní veřejný prostor a další rozvoj celé městské části.
-vysledky_h2: Co se nám již povedlo
-vysledky_intro: Slova nestačí — proto ukazujeme, co jsme pro Čakovice, Miškovice a Třeboradice skutečně udělali.
+vysledky_h2: Čtyři roky práce. Desítky konkrétních výsledků.
+vysledky_intro: Slova nestačí — proto ukazujeme, co jsme pro Čakovice, Miškovice
+  a Třeboradice skutečně udělali.
 akce_h2: Přijďte se potkat
 akce_intro: Setkáme se s vámi osobně. Přijďte, zeptejte se, pohovořte s kandidáty.
 kontakt_email: info@spoluprocakovice.cz
 kontakt_fb: https://www.facebook.com/mojecakovice
 kontakt_instagram: ""
-kontakt_adresa: Praha–Čakovice, náměstí 25. března 121/1, 196 00 Praha-Čakovice
+kontakt_adresa: Truhlářská 1106/9, 110 00 Praha 1 – Nové Město
 kontakt_text: Máte otázku, nápad nebo chcete vědět více? Jsme tu pro vás. Každý
   podnět od obyvatel Čakovic, Miškovic a Třeboradic bereme vážně.
-legal_zadavatel: Ing. Jiří Vintiška
-legal_zpracovatel: VOLEBNÍ KAMPAŇ 2026 · Koalice ODS, TOP 09 a nezávislých kandidátů
+legal_zadavatel: ODS
+legal_zpracovatel: ODS
