@@ -1,3 +1,4 @@
+{{ $s := .Site.Data.settings }}
 {{ $vys := where .Site.RegularPages "Section" "vysledky" }}
 {{ $vys = sort $vys ".Params.order" }}
 {{ $top6 := first 6 $vys }}
@@ -5,8 +6,8 @@
 <section id="vysledky" class="section">
   <div class="section-inner">
     <span class="section-tag reveal">Konkrétní výsledky</span>
-    <h2 class="reveal">Co se nám již povedlo</h2>
-    <p class="section-sub reveal">Slova nestačí — proto ukazujeme, co jsme pro Čakovice, Miškovice a Třeboradice skutečně udělali.</p>
+    <h2 class="reveal">{{ $s.vysledky_h2 }}</h2>
+    <p class="section-sub reveal">{{ $s.vysledky_intro }}</p>
     <div class="vysledky-list">
       {{ range $top6 }}
       {{ $mid := printf "v_%s" .File.UniqueID }}

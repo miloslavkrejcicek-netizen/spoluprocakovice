@@ -36,6 +36,8 @@ collections:
           - {label: "Program — nadpis", name: "program_h2", widget: "string"}
           - {label: "Program — podtitulek", name: "program_intro", widget: "text"}
           - {label: "Program — úvodní text / vize", name: "program_vize", widget: "text"}
+          - {label: "Výsledky — nadpis", name: "vysledky_h2", widget: "string"}
+          - {label: "Výsledky — podtitulek", name: "vysledky_intro", widget: "text"}
           - {label: "Akce — nadpis", name: "akce_h2", widget: "string"}
           - {label: "Akce — podtitulek", name: "akce_intro", widget: "text"}
           - {label: "Kontaktní e-mail", name: "kontakt_email", widget: "string"}
