@@ -1,6 +1,6 @@
 ---
 order: 5
-title: 🎭 Kultura, komunita a bezpečí
+title: Kultura, komunita a bezpečí
 popis: Posilujeme kulturu, komunitní život i bezpečí – navýšili jsme podporu
   kultury na přibližně 5 milionů Kč ročně, rozšířili tradiční i nové akce,
   podporujeme komunitní projekty a zároveň posilujeme prevenci kriminality a
