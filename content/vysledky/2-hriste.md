@@ -1,6 +1,6 @@
 ---
 order: 2
-title: 🏘️ Lepší Čakovice, Miškovice a Třeboradice
+title: Lepší Čakovice, Miškovice a Třeboradice
 popis: Rozvíjíme Čakovice, Miškovice i Třeboradice – rozšiřujeme zdravotní a
   poštovní služby, otevřeli jsme Komunitní centrum Sýpka, budujeme Čakovické
   korzo, přivedli optický internet, pečujeme o kulturní dědictví včetně zámku a
