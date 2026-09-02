@@ -1,7 +1,16 @@
 ---
 order: 3
-title: "Rozšíření kapacity MŠ"
-popis: "24 nových míst v mateřské škole."
+title: ⚽ Sport a volný čas pro děti i dospělé
+popis: Rozvíjíme sportovní zázemí pro všechny generace – zrekonstruovali jsme
+  skatepark, vybudovali dva OCR parky, rozšířili tělocvičny a sály, připravili
+  hřiště s umělým povrchem a dlouhodobě navyšujeme podporu místnímu sportu.
 foto: ""
 ---
-Díky rekonstrukci v MŠ Čakovická se podařilo otevřít novou třídu. Od září 2024 mají místo v MŠ všechny přihlášené děti.
+
+
+* kompletně jsme zrekonstruovali **skatepark včetně osvětlení**
+* získali jsme stavební povolení pro **hřiště s umělým povrchem na čakovickém stadionu**
+* rozšířili jsme sportovní zázemí o **novou tělocvičnu a dva tělocvičné sály včetně baletního sálu**
+* dlouhodobě navyšujeme **finanční podporu místního sportu**
+* vybudovali jsme **2 OCR parky**
+* podporujeme sport jako přirozenou součást života dětí, mládeže i dospělých
