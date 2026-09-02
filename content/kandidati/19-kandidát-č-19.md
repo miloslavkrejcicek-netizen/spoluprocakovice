@@ -5,7 +5,7 @@ strana: ODS
 popis: Trenérka stolního tenisu
 foto: /images/fotka_2397_800x800.jpg
 ---
-**obchodní specialistka  | trenérka stolního tenisu TJ AVIA Čakovice**
+**Obchodní specialistka  | trenérka stolního tenisu TJ AVIA Čakovice**
 
 **Oblasti, kterým se chci věnovat:**\
 Sport, děti a mládež a podmínky pro pejskaře
