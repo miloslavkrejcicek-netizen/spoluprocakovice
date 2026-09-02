@@ -5,7 +5,7 @@ strana: ODS
 popis: Elektromechanička v důchodu
 foto: /images/img_2348_web_final.jpg
 ---
-**Elektromechanička, důchodkyně**
+**Elektromechanička, seniorka**
 
 **Oblasti, kterým se chci věnovat:**\
 Kultura a volnočasové aktivity pro seniory
