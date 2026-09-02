@@ -11,11 +11,11 @@ hero_btn1: Náš program →
 hero_btn2: Kandidáti
 stats:
   - num: "21"
-    lbl: Kandidátů na listině
+    lbl: kandidátů na listině
   - num: "10"
-    lbl: Zkušených kandidátů v zastupitelstvu
+    lbl: kandidátů se zkušeností v zastupitelstvu
   - num: "#1"
-    lbl: "Lídr: Ing. Jiří Vintiška"
+    lbl: "lídr: Ing. Jiří Vintiška"
 program_h2: Co prosazujeme
 program_intro: >-
   Naše priority vycházejí z každodenní reality Čakovic, Miškovic a Třeboradic.
