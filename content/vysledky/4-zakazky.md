@@ -1,6 +1,6 @@
 ---
 order: 4
-title: "🎓 Školy a školky: myslíme na budoucnost"
+title: "Školy a školky: myslíme na budoucnost"
 popis: Investujeme do školství a budoucnosti našich dětí – dokončili jsme nový
   areál základní školy s kapacitou do roku 2040, připravili rozšíření gymnázia i
   nové mateřské školy a zmodernizovali vstup do základní školy včetně
