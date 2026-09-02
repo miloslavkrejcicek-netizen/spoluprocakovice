@@ -10,12 +10,10 @@ hero_perex: Koalice ODS, TOP 09 a nezávislých kandidátů přináší odpověd
 hero_btn1: Náš program →
 hero_btn2: Kandidáti
 stats:
-  - num: 20+
-    lbl: Roky ve vedení MČ
   - num: "21"
     lbl: Kandidátů na listině
-  - num: 12+
-    lbl: Dokončených projektů
+  - num: "10"
+    lbl: Zkušených kandidátů v zastupitelstvu
   - num: "#1"
     lbl: "Lídr: Ing. Jiří Vintiška"
 program_h2: Co prosazujeme

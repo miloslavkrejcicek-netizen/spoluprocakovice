@@ -2,10 +2,10 @@
 order: 5
 icon: 🌱
 title: "Další rozvoj infrastruktury městské části "
-popis: Budeme rozvíjet Čakovice a Třeboradice jako kvalitní místo pro život –
-  připravíme kulturní středisko, podpoříme dostupné bydlení a zdravotní péči,
-  revitalizaci Mratínského potoka, hřbitovů a veřejných prostranství a dokončíme
-  revitalizaci centra Třeboradic.
+popis: Budeme rozvíjet Čakovice jako kvalitní místo pro život – připravíme
+  kulturní středisko, podpoříme dostupné bydlení a zdravotní péči, revitalizaci
+  Mratínského potoka, hřbitovů a veřejných prostranství a dokončíme revitalizaci
+  centra Třeboradic.
 ---
 * 🎭 **Připravíme projekt kulturního střediska**
 
