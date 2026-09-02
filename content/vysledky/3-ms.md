@@ -1,6 +1,6 @@
 ---
 order: 3
-title: ⚽ Sport a volný čas pro děti i dospělé
+title: Sport a volný čas pro děti i dospělé
 popis: Rozvíjíme sportovní zázemí pro všechny generace – zrekonstruovali jsme
   skatepark, vybudovali dva OCR parky, rozšířili tělocvičny a sály, připravili
   hřiště s umělým povrchem a dlouhodobě navyšujeme podporu místnímu sportu.
