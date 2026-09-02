@@ -1,13 +1,13 @@
 {{ $kand := where .Site.RegularPages "Section" "kandidati" }}
 {{ $kand = sort $kand ".Params.rank" }}
-{{ $top4 := first 4 $kand }}
+{{ $top5 := first 5 $kand }}
 <section id="kandidati" class="section">
   <div class="section-inner">
     <span class="section-tag reveal">Kandidáti</span>
     <h2 class="reveal">Lidé, na které se můžete spolehnout</h2>
     <p class="section-sub reveal">Naše kandidátka spojuje zkušené komunální politiky s odborníky z praxe.</p>
     <div class="kandidati-grid">
-      {{ range $top4 }}
+      {{ range $top5 }}
       {{ $mid := printf "k_%s" .File.UniqueID }}
       {{ $pc := "party-nez" }}{{ if eq .Params.strana "ODS" }}{{ $pc = "party-ods" }}{{ end }}{{ if eq .Params.strana "TOP09" }}{{ $pc = "party-top09" }}{{ end }}
       {{ $ini := "" }}{{ range first 2 (split .Title " ") }}{{ if . }}{{ $ini = printf "%s%s" $ini (substr . 0 1) }}{{ end }}{{ end }}
@@ -25,7 +25,7 @@
       </div>
       {{ end }}
     </div>
-    {{ if gt (len $kand) 4 }}
+    {{ if gt (len $kand) 5 }}
     <button class="show-more-btn" data-label="Zobrazit všechny kandidáty ({{ len $kand }}) ↓" onclick="toggleMore(this,'all-kandidati')">Zobrazit všechny kandidáty ({{ len $kand }}) ↓</button>
     <div id="all-kandidati" style="display:none;margin-top:32px">
       <div class="kandidati-grid-all">

@@ -45,14 +45,6 @@ collections:
           - {label: "Kontaktní text", name: "kontakt_text", widget: "text"}
           - {label: "Zadavatel politické reklamy (zákon 491/2001 Sb.)", name: "legal_zadavatel", widget: "string"}
           - {label: "Zpracovatel politické reklamy (zákon 491/2001 Sb.)", name: "legal_zpracovatel", widget: "string"}
-          - {label: "Průzkum — nadpis", name: "pruzkum_nadpis", widget: "string"}
-          - {label: "Průzkum — popisek (zdroj, datum)", name: "pruzkum_text", widget: "string"}
-          - label: "Průzkum — témata a procenta"
-            name: "pruzkum_polozky"
-            widget: "list"
-            fields:
-              - {label: "Téma", name: "tema", widget: "string"}
-              - {label: "Procento (0–100)", name: "procento", widget: "number", value_type: "int", min: 0, max: 100}
 
   - name: "kandidati"
     label: "Kandidáti"

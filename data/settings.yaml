@@ -43,14 +43,3 @@ kontakt_text: Máte otázku, nápad nebo chcete vědět více? Jsme tu pro vás.
   podnět od obyvatel Čakovic, Miškovic a Třeboradic bereme vážně.
 legal_zadavatel: Ing. Jiří Vintiška
 legal_zpracovatel: VOLEBNÍ KAMPAŇ 2026 · Koalice ODS, TOP 09 a nezávislých kandidátů
-pruzkum_nadpis: Spokojení obyvatelé
-pruzkum_text: "Zdroj: Průzkum spokojenosti obyvatel MČ Praha-Čakovice, listopad 2025."
-pruzkum_polozky:
-  - tema: Celková spokojenost
-    procento: 82
-  - tema: Stav veřejných prostranství
-    procento: 76
-  - tema: Práce úřadu MČ
-    procento: 79
-  - tema: Bezpečnost ve čtvrti
-    procento: 71
