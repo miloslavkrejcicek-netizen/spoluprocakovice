@@ -1,14 +1,14 @@
 {{ $vys := where .Site.RegularPages "Section" "vysledky" }}
 {{ $vys = sort $vys ".Params.order" }}
-{{ $top3 := first 3 $vys }}
-{{ $extra := after 3 $vys }}
+{{ $top4 := first 4 $vys }}
+{{ $extra := after 4 $vys }}
 <section id="vysledky" class="section">
   <div class="section-inner">
     <span class="section-tag reveal">Konkrétní výsledky</span>
     <h2 class="reveal">Co se nám již povedlo</h2>
     <p class="section-sub reveal">Slova nestačí — proto ukazujeme, co jsme pro Čakovice, Miškovice a Třeboradice skutečně udělali.</p>
     <div class="vysledky-list">
-      {{ range $top3 }}
+      {{ range $top4 }}
       {{ $mid := printf "v_%s" .File.UniqueID }}
       <div class="vys-item reveal" onclick="openModal('{{ $mid }}')">
         {{ if .Params.foto }}
