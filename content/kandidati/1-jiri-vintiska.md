@@ -7,7 +7,7 @@ kontakt: jiri.vintiska@cakovice.cz
 linkedin: https://www.linkedin.com/in/jirivintiska/
 foto: /images/chatgpt-image-30.-8.-2026-18_33_17.png
 ---
-**Starosta MČ Praha-Čakovice**
+**Starosta MČ Praha-Čakovice | 50 let**
 
 V Čakovicích jsem se narodil a celý život tu žiji. Čakovice, Miškovice i Třeboradice proto pro mě nejsou jen místem, kde pracuji – jsou mým domovem.
 
