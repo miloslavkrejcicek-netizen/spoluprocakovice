@@ -41,6 +41,6 @@ Naše kandidátní listina kandiduje pouze v komunálních volbách. V souladu s
 Po skončení voleb bude v zákonné lhůtě předložena Úřadu pro dohled nad hospodařením politických stran a politických hnutí zpráva o financování kampaně a související volební účetnictví.
 
 **Zadavatel volební kampaně:**
-SPOLU PRO ČAKOVICE (Koalice ODS, TOP 09 a nezávislých kandidátů pro komunální volby 2026 v Praze–Čakovicích, Miškovicích a Třeboradicích.)
+SPOLU PRO ČAKOVICE – Koalice ODS, TOP 09 a nezávislých kandidátů pro komunální volby 2026 v Praze–Čakovicích, Miškovicích a Třeboradicích.
 
 **Datum poslední aktualizace:** 04. 09. 2026
