@@ -17,7 +17,7 @@ Sportovní vyžití, parky, lesoparky a místa, kde mohou lidé aktivně trávit
 Sport, hudba, cestování, zvířata, kynologie a auta.
 
 **Pár slov o mně:**\
-Pocházím z Čakovic a jsem ráda, že mohu žít a působit v místě, které dobře znám. V současné době pracuji jako obchodní specialistka ve společnosti Activa. Zároveň jsem licencovanou trenérkou stolního tenisu a věnuji se trénování v místní TJ AVIA Čakovice.
+Pocházím z Čakovic a jsem ráda, že mohu žít a působit v místě, které dobře znám. V současné době pracuji jako obchodní specialistka ve společnosti Akros. Zároveň jsem licencovanou trenérkou stolního tenisu a věnuji se trénování v místní TJ AVIA Čakovice.
 
 Sport je pro mě přirozenou součástí života a právě jeho rozvoj v naší městské části považuji za jedno z důležitých témat. Ze své zkušenosti trenérky vím, jak důležitý je sport pro děti a mládež – učí je nejen pohybu, ale také disciplíně, vytrvalosti a spolupráci. Chtěla bych proto podporovat místní sportovní kluby a vytvářet podmínky, aby děti i dospělí měli dostatek možností pro aktivní trávení volného času.
 
