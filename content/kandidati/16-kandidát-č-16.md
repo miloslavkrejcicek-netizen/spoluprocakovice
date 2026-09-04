@@ -5,7 +5,7 @@ strana: nezávislý
 popis: Obchodní zástupce firmy MADE
 foto: /images/chatgpt-image-30.-8.-2026-17_55_09.png
 ---
-**Obchodní zástupkyně společnosti MADE**
+**Obchodní zástupkyně společnosti MADE | 48 let**
 
 **Oblasti, kterým se chci věnovat:**\
 Rozvoj Miškovic, Čakovic a Třeboradic
