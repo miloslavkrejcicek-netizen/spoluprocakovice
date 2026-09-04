@@ -6,7 +6,7 @@ popis: Produkční/obchodní zástupce, zastupitel MČ
 kontakt: kadlec@cakovice.cz
 foto: /images/chatgpt-image-30.-8.-2026-17_20_15.png
 ---
-**Zastupitel MČ | člen komise pro sídliště, produkční** 
+**Zastupitel MČ | člen komise pro sídliště, produkční** **\| 42 let**
 
 **Oblasti, kterým se chci věnovat:**\
 Sídliště Čakovice, volnočasové aktivity a zdravotnictví
