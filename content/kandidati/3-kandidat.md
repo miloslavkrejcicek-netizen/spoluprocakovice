@@ -7,7 +7,7 @@ popis: Zástupce starosty MČ Praha–Čakovice, odborník na bezpečnost a
 kontakt: martin.slavik@cakovice.cz
 foto: /images/chatgpt-image-30.-8.-2026-17_29_17.png
 ---
-**Zástupce starosty MČ Praha-Čakovice | vedoucí výroby**
+**Zástupce starosty MČ Praha-Čakovice | vedoucí výroby | 49 let**
 
 Miškovice jsou mým domovem už více než dvacet let. Poprvé jsem se s nimi setkal už v roce 1995, kdy jsem zde absolvoval základní vojenskou službu. Tehdy jsem ještě netušil, že se sem jednou vrátím a že se Miškovice stanou místem, kde budu žít se svou rodinou a kde se budu aktivně podílet na jejich rozvoji.
 
