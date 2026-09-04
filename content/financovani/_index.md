@@ -1,31 +1,30 @@
 ---
-title: "Financování volební kampaně"
+title: Financování volební kampaně
 ---
-
 **Volby do Zastupitelstva městské části Praha–Čakovice 2026**
 
 Kampaň kandidátní listiny **SPOLU PRO ČAKOVICE** je financována transparentně a v souladu s platnými právními předpisy.
 
 ### Příjmy kampaně
 
-| Zdroj                                |        Částka |
-| ------------------------------------ | ------------: |
-| Vlastní prostředky politických stran |     XX XXX Kč |
-| Dary a jiná bezúplatná plnění        |      X XXX Kč |
-| Ostatní příjmy                       |          0 Kč |
+| Zdroj                                | Částka        |
+| ------------------------------------ | ------------- |
+| Vlastní prostředky politických stran | XX XXX Kč     |
+| Dary a jiná bezúplatná plnění        | X XXX Kč      |
+| Ostatní příjmy                       | 0 Kč          |
 | **Celkem**                           | **XX XXX Kč** |
 
 ### Výdaje kampaně
 
-| Oblast                           |        Částka |
-| --------------------------------- | ------------: |
-| Tiskoviny a propagační materiály |     XX XXX Kč |
-| Online reklama a sociální sítě   |     XX XXX Kč |
-| Grafika, fotografie a video      |      X XXX Kč |
-| Venkovní reklama                 |     XX XXX Kč |
-| Akce a setkání s občany          |      X XXX Kč |
-| Ostatní náklady                  |      X XXX Kč |
-| **Celkem**                       | **XX XXX Kč** |
+| Oblast                           | Částka        |
+| -------------------------------- | ------------- |
+| Tiskoviny a propagační materiály | XX XXX Kč     |
+| Online reklama a sociální sítě   | XX XXX Kč     |
+| Grafika, fotografie a video      | 12 000 Kč     |
+| Venkovní reklama                 | XX XXX Kč     |
+| Akce a setkání s občany          | X XXX Kč      |
+| Ostatní náklady                  | X XXX Kč      |
+| **Celkem**                       | **12 000 Kč** |
 
 ### Dary a bezúplatná plnění
 
@@ -44,4 +43,4 @@ Po skončení voleb bude v zákonné lhůtě předložena Úřadu pro dohled nad
 **Zadavatel volební kampaně:**
 SPOLU PRO ČAKOVICE
 
-**Datum poslední aktualizace:** XX. XX. 2026
+**Datum poslední aktualizace:** 04. 09. 2026
