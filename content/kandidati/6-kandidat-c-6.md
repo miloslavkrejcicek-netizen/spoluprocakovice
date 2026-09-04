@@ -8,22 +8,14 @@ foto: /images/chatgpt-image-30.-8.-2026-17_41_36.png
 ---
 **Zastupitelka MČ Praha-Čakovice | ředitelka MŠ Čakovice III | 64 let**
 
-**Oblasti, kterým se chci věnovat:**\
-Předškolní výchova, školství a podpora rodin s dětmi
+**Oblasti, kterým se chci věnovat:** školství, zejména předškolní výchova a podpora rodin s dětmi.  
 
-**Co mám na naší městské části nejraději:**\
-Pocit venkovského života – okolní přírodu, klid a především sousedské vztahy, které dělají z Čakovic, Třeboradic a Miškovic skutečný domov.
+V naší městské části žiji od svého narození. Mám ráda pocit venkovského života, okolní přírodu, klid a sousedské vztahy, které dělají z Čakovic, Třeboradic a Miškovic skutečný domov. 
 
-**Moje záliby:**\
-Sport, zahrada, cestování a především čas s rodinou a pěti vnoučaty.
+Do komunální politiky jsem vstoupila v roce 2014, protože jsem chtěla využít své dlouholeté zkušenosti ze školství, zejména v oblasti předškolní výchovy. Od roku 2008 pracuji jako ředitelka Mateřské školy Čakovice III, a tak mám možnost setkávat se zejména s mladými rodinami, které jsou jak starousedlíky, tak lidmi, které si naši městskou část vybrali jako svůj budoucí domov. Za důležité považuji, aby se v naší městské části dál rozvíjelo kvalitní školství, dobře fungující služby pro rodiny a prostředí ve kterém se dobře žije dětem i dospělým. 
 
-**Pár slov o mně:**\
-V Praze jsem se narodila a celý život žiji v Třeboradicích. Celý svůj profesní život jsem spojila s dětmi a vzděláváním. Po studiu jsem začala pracovat jako učitelka mateřské školy, později jsem působila také v ekonomickém oddělení společnosti Avia.
+Ráda bych se podílela na rozhodování, jak bude naše městská část vypadat. Kde budeme trávit svůj volný čas, jaké sportovní vyžití a kulturu zde najdeme, zda se nám podaří zajistit lékařskou péči pro naše občany. Díky svému povolání velmi často spolupracuji s místními spolky a komunitou. S dětmi z mateřské školy se pravidelně účastníme místních veřejných akcí, jako je Posvícení, Advent, Masopust. Spolupracujeme se ZŠ i ZUŠ a snažíme se dodržovat a oživovat tradice, které zde vždy byly. 
 
-V roce 2008 jsem uspěla v konkurzním řízení na ředitelku nově otevřené mateřské školy Čtyřlístek v Schoellerově ulici. Od té doby ji vedu a společně s týmem jsme ji postupně rozšířili o další pracoviště MŠ U Parku v Bermanově ulici. Dnes školka funguje v šesti třídách a stará se o naše nejmenší.
+Mezi mé záliby patří sport, cestování a především čas s rodinou a mými pěti vnoučaty. 
 
-Do komunální politiky jsem se zapojila poprvé v roce 2014. Za důležité považuji, aby naše městská část dál rozvíjela kvalitní školství, dobře fungující služby pro rodiny a prostředí, ve kterém se dobře žije dětem i dospělým. Chci využít své dlouholeté zkušenosti ze školství a pomáhat při rozhodování o tom, jak bude naše městská část vypadat v dalších letech.
-
-Blízká je mi také spolupráce s místními spolky a komunitou. S dětmi z mateřské školy se pravidelně účastníme místních akcí, jako jsou Posvícení, Masopust nebo Advent.
-
-Největší radost mi ale dělá moje rodina a mých pět vnoučat. Právě díky nim mám každý den důvod přemýšlet o tom, jakou budoucnost chceme naší městské části připravit.
+Právě díky nim mám každý den důvod přemýšlet o tom, jakou budoucnost chceme dětem v naší městské části připravit.
