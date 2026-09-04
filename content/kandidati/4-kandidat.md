@@ -9,18 +9,14 @@ foto: /images/img_3594.jpeg
 ---
 **Radní MČ Praha-Čakovice | privátní bankéř | 42 let**
 
-V Čakovicích žiji se svou rodinou a záleží mi na tom, aby se zde dobře žilo nejen dnes, ale i za několik let. Od roku 2018 se aktivně věnuji veřejnému životu v městské části. Nejprve jako předseda Komise pro sídliště Čakovice, od roku 2022 také jako **radní pro bytovou a sociální politiku a sídliště Čakovice**.
+V Čakovicích žiji s rodinou a dlouhodobě se zajímám o to, jak naše městská část funguje a kam se může dál posouvat. Do veřejného života jsem se aktivně zapojil v roce 2018. Od roku 2022 působím jako radní MČ Praha-Čakovice.
 
-Dlouhodobě se věnuji tomu, co ovlivňuje každodenní život obyvatel – **bydlení, veřejnému prostoru, zeleni, dopravě, bezpečnosti, sportu a volnočasovému vyžití**. Sídliště znám nejen z jednání rady a komisí, ale především jako jeho obyvatel. Jako předseda Komise pro sídliště Čakovice se podílím na přípravě a prosazování konkrétních projektů, které zlepšují prostředí, ve kterém místní lidé žijí.
+Jako radní se věnuji především oblastem, které mají přímý dopad na každodenní život obyvatel. Záleží mi na kvalitě veřejného prostoru, rozvoji sídliště, dopravě, bydlení, bezpečnosti a odpovědném hospodaření městské části. Jsem přesvědčený, že komunální politika má být především o konkrétní práci a výsledcích, ne o velkých slovech.
 
-Jsem také **členem Finančního výboru Zastupitelstva MČ Praha-Čakovice a členem Školské rady ZŠ Dr. Edvarda Beneše**. Díky tomu se věnuji také hospodaření městské části, rozpočtu a otázkám spojeným se vzděláváním a fungováním místní školy.
+Vedle komunální politiky pracuji jako privátní bankéř. Začínal jsem jako bankovní poradce, později jsem vedl pobočku a dnes pomáhám podnikatelům a rodinám pečovat o jejich majetek a dlouhodobě plánovat jejich finance. Tato zkušenost mě naučila především odpovědnosti, hledání praktických řešení a práci s dlouhodobou perspektivou. Stejný přístup považuji za důležitý i při správě městské části.
 
-Vystudoval jsem ekonomii se zaměřením na **veřejnou správu a veřejné finance**. Profesně jsem prošel automobilovým průmyslem a následně bankovnictvím, kde působím více než 15 let. Začínal jsem jako bankovní poradce, později jsem vedl pobočku a dnes pracuji jako privátní bankéř. Každodenně tak pracuji s lidmi, jejich potřebami, financemi a dlouhodobými rozhodnutími. Věřím, že právě **odpovědnost, schopnost hledat řešení a rozumně hospodařit s penězi** jsou důležité také při správě městské části.
+V minulosti jsem působil také jako předseda Komise pro sídliště a jsem členem Finančního výboru a Školské rady. Mám tak možnost dívat se na fungování Čakovic z různých pohledů – od každodenních problémů obyvatel až po hospodaření a rozvoj městské části.
 
-Vedle komunální politiky se aktivně podílím také na životě našeho domu a okolí. Jsem kontrolním orgénem předsedy SVJ domu, kde žiji se svou rodinou, a mám tak zkušenost s řešením praktických problémů spojených s bydlením i fungováním sousedské komunity.
+**Na Čakovicích mi záleží. Chci, aby se městská část dál rozvíjela, ale zároveň zůstala dobrým místem pro život – pro rodiny, děti, seniory i všechny, kteří zde žijí.**
 
-Čakovice mám rád především pro jejich **blízkost přírodě a možnosti aktivního trávení volného času**. Chci, aby si tuto kvalitu zachovaly i do budoucna a aby se jednotlivé části městské části rozvíjely vyváženě.
-
-Jsem ženatý a mám syna. Ve volném čase nejraději cestuji a věnuji se rodině. Baví mě také finanční trhy, hudba a auta.
-
-**Věřím, že dobrá komunální politika začíná tam, kde člověk skutečně žije – a kde je ochoten pro své okolí něco udělat.**
+Ve volbách kandiduji znovu, protože věřím, že má smysl pokračovat v práci, kterou jsme společně začali. Nechci slibovat nemožné. Chci dál pomáhat prosazovat konkrétní řešení, která budou mít pro Čakovice skutečný přínos.
