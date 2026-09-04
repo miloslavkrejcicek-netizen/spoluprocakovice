@@ -9,8 +9,6 @@ popis: >
   posilujeme bezpečnost díky kamerovému systému.
 foto: ""
 ---
-
-
 * získali jsme stavební povolení pro **rozšíření Kostelecké ulice** a projekt je připraven k další realizaci
 * dokončili jsme **zvýšení počtu parkovacích míst v ulici Ke Stadionu**
 * zahájili jsme komplexní projekt **rekonstrukce ulic U Párníků** včetně nových parkovacích míst
@@ -21,5 +19,5 @@ foto: ""
 * vznikla **nová lávka přes železniční trať u Havraňáku**
 * podpořili jsme vznik nových **cyklostezek do Kbel a Letňanského lesoparku**
 * dlouhodobě prosazujeme **železnici jako rychlé spojení Čakovic s centrem Prahy**
-* prosazujeme **tunelové řešení Pražského okruhu** včetně opatření proti hluku
+* podporujeme **tunelové řešení Pražského okruhu** včetně opatření proti hluku
 * rozšířili jsme **kamerový systém** – dnes je v MČ 54 přípojných bodů s možností měření rychlosti a evidence SPZ
