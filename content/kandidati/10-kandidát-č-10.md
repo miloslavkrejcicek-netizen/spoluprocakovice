@@ -6,7 +6,7 @@ popis: Hudebník v Národním divadle, pedagog v ZUŠ M. Podvalové, zastupitel 
 kontakt: lastovka@cakovice.cz
 foto: /images/chatgpt-image-30.-8.-2026-17_44_13.png
 ---
-**Hudebník Národního divadla, pedagog ZUŠ Marie Podvalové Čakovice | 66 let**
+**Hudebník Národního divadla, pedagog ZUŠ Marie Podvalové Čakovice, zastupitel MČ Praha-Čakovice | 66 let**
 
 **Oblasti, kterým se chci věnovat:**\
 Kultura a umělecké školství
