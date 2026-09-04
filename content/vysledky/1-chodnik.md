@@ -19,5 +19,5 @@ foto: ""
 * vznikla **nová lávka přes železniční trať u Havraňáku**
 * podpořili jsme vznik nových **cyklostezek do Kbel a Letňanského lesoparku**
 * dlouhodobě prosazujeme **železnici jako rychlé spojení Čakovic s centrem Prahy**
-* podporujeme **tunelové řešení Pražského okruhu** včetně opatření proti hluku
+* podpořili jsme **tunelové řešení Pražského okruhu** včetně opatření proti hluku
 * rozšířili jsme **kamerový systém** – dnes je v MČ 54 přípojných bodů s možností měření rychlosti a evidence SPZ
