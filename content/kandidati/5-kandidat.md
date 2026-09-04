@@ -6,4 +6,4 @@ popis: Referentka investičního odboru
 kontakt: ""
 foto: /images/chatgpt-image-30.-8.-2026-17_36_45.png
 ---
-Doplňte podrobný životopis a politické priority kandidáta.
+**Referentka investičního odboru | 28 let**
