@@ -5,7 +5,7 @@ strana: ODS
 popis: Pracovník lesní správy
 foto: /images/img_2370_800x800.jpg
 ---
-**Pracovník lesní správy**
+**Pracovník lesní správy | 24 let**
 
 **Oblasti, kterým se chci věnovat:**\
 Veřejná zeleň, parky a životní prostředí
