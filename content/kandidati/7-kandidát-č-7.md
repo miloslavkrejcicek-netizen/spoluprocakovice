@@ -6,7 +6,7 @@ popis: Velitel hasičů, zastupitel MČ, referent
 kontakt: horsky@cakovice.cz
 foto: /images/chatgpt-image-30.-8.-2026-17_04_29.png
 ---
-**Zastupitel MČ | velitel Jednotky požární ochrany MČ Praha-Čakovice, referent**
+**Zastupitel MČ | velitel Jednotky požární ochrany MČ Praha-Čakovice, referent | 36 let**
 
 **Oblasti, kterým se chci věnovat:**\
 Bezpečnost, požární ochrana, kultura a sport

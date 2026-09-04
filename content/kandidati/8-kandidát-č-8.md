@@ -6,7 +6,7 @@ popis: Předseda Pražského svazu stolního tenisu, zastupitel MČ
 kontakt: vojacek@cakovice.cz
 foto: /images/img_2404_800x800.jpg
 ---
-**Zastupitel MČ Praha-Čakovice | předseda Pražského svazu stolního tenisu**
+**Zastupitel MČ Praha-Čakovice | předseda Pražského svazu stolního tenisu | 57 let**
 
 **Oblasti, kterým se chci věnovat:**\
 Sport a podpora aktivního života v naší městské části
@@ -15,7 +15,7 @@ Sport a podpora aktivního života v naší městské části
 Možnosti sportovního vyžití a množství zeleně.
 
 **Moje záliby:**\
-Stolní tenis, crossminton, hudba, gastronomie a cestování.
+Stolní tenis, pickleball, padel, hudba, gastronomie a cestování.
 
 **Pár slov o mně:**\
 Sport je nedílnou součástí mého života. Jsem zakladatelem a majitelem e-shopu a kamenné prodejny se sportovními potřebami, která se zaměřuje především na stolní tenis. Zároveň působím jako předseda Pražského svazu stolního tenisu a jsem členem výkonného výboru místní TJ AVIA Čakovice.
