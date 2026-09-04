@@ -48,6 +48,16 @@ collections:
           - {label: "Zadavatel politické reklamy (zákon 491/2001 Sb.)", name: "legal_zadavatel", widget: "string"}
           - {label: "Zpracovatel politické reklamy (zákon 491/2001 Sb.)", name: "legal_zpracovatel", widget: "string"}
 
+  - name: "financovani_page"
+    label: "Financování kampaně"
+    files:
+      - name: "financovani"
+        label: "Stránka financování"
+        file: "content/financovani/_index.md"
+        fields:
+          - {label: "Nadpis stránky", name: "title", widget: "string"}
+          - {label: "Obsah stránky", name: "body", widget: "markdown"}
+
   - name: "kandidati"
     label: "Kandidáti"
     folder: "content/kandidati"

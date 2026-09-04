@@ -1,0 +1,34 @@
+{{ $s := .Site.Data.settings }}
+<footer>
+  <div class="footer-main">
+    <div class="footer-brand">
+      {{ if $s.logo_footer }}
+      <img src="{{ $s.logo_footer }}" alt="{{ .Site.Title }}" style="height:44px;width:auto">
+      {{ else if $s.logo }}
+      <img src="{{ $s.logo }}" alt="{{ .Site.Title }}" style="height:44px;width:auto">
+      {{ else }}
+      <span class="logo-mark">SPOLU<span class="box">PRO ČAKOVICE</span></span>
+      {{ end }}
+      <p>Koalice ODS, TOP09 a nezávislých kandidátů pro komunální volby 2026 v Praze–Čakovicích, Miškovicích a Třeboradicích.</p>
+    </div>
+    <div class="footer-links">
+      <div class="footer-col">
+        <h4>Web</h4>
+        <a href="/#program">Program</a>
+        <a href="/#kandidati">Kandidáti</a>
+        <a href="/#vysledky">Výsledky</a>
+        <a href="/#akce">Akce</a>
+        <a href="/#kontakt">Kontakt</a>
+      </div>
+      <div class="footer-col">
+        <h4>Sledujte nás</h4>
+        <a href="{{ $s.kontakt_fb }}" target="_blank" rel="noopener">Facebook</a>
+        {{ if $s.kontakt_instagram }}<a href="{{ $s.kontakt_instagram }}" target="_blank" rel="noopener">Instagram</a>{{ end }}
+      </div>
+    </div>
+  </div>
+  <div class="footer-legal">
+    <strong>POLITICKÁ REKLAMA</strong> · Zadavatel: {{ $s.legal_zadavatel }} · Zpracovatel: {{ $s.legal_zpracovatel }} · Kontakt: {{ $s.kontakt_email }} · Adresa: {{ $s.kontakt_adresa }} · <a href="/financovani/" style="color:inherit;text-decoration:underline">Financování kampaně</a><br>
+    © {{ now.Format "2006" }} {{ .Site.Title }} · spoluprocakovice.cz · Volební web vydaný v souladu se zákonem.
+  </div>
+</footer>

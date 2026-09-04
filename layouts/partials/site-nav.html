@@ -1,0 +1,16 @@
+<nav id="main-nav">
+  <a href="/" class="nav-logo">
+    {{ if .Site.Data.settings.logo }}
+    <img src="{{ .Site.Data.settings.logo }}" alt="{{ .Site.Title }}" style="height:60px;width:auto">
+    {{ else }}
+    <span class="logo-mark">SPOLU<span class="box">PRO ČAKOVICE</span></span>
+    {{ end }}
+  </a>
+  <ul class="nav-links">
+    <li><a href="/#program">Program</a></li>
+    <li><a href="/#akce">Akce</a></li>
+    <li><a href="/#kandidati">Kandidáti</a></li>
+    <li><a href="/#vysledky">Výsledky</a></li>
+    <li><a href="/#kontakt" class="nav-cta">Kontakt</a></li>
+  </ul>
+</nav>
