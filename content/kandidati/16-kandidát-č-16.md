@@ -2,10 +2,10 @@
 rank: 16
 title: Lenka Martínková
 strana: nezávislý
-popis: Obchodní zástupce firmy MADE
+popis: Obchodní zástupce
 foto: /images/chatgpt-image-30.-8.-2026-17_55_09.png
 ---
-**Obchodní zástupkyně společnosti MADE | 48 let**
+**Obchodní zástupkyně | 48 let**
 
 **Oblasti, kterým se chci věnovat:**\
 Rozvoj Miškovic, Čakovic a Třeboradic
