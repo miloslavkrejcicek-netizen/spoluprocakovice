@@ -6,7 +6,7 @@ popis: Předseda Pražského svazu stolního tenisu, zastupitel MČ
 kontakt: vojacek@cakovice.cz
 foto: /images/img_2404_800x800.jpg
 ---
-**Zastupitel MČ Praha-Čakovice | předseda Pražského svazu stolního tenisu**
+**Zastupitel MČ Praha-Čakovice | předseda Pražského svazu stolního tenisu | 57 let**
 
 **Oblasti, kterým se chci věnovat:**\
 Sport a podpora aktivního života v naší městské části
