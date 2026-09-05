@@ -4,7 +4,7 @@ title: Ludmila Vargová
 strana: nezávislý
 popis: Ředitelka MŠ Čakovice III, zastupitelka MČ
 kontakt: vargova@cakovice.cz
-foto: /images/chatgpt-image-30.-8.-2026-17_41_36.png
+foto: /images/f7df3be3-7cad-40ea-bf6c-e823c5b57fe7.jpeg
 ---
 **Zastupitelka MČ Praha-Čakovice | ředitelka MŠ Čakovice III | 64 let**
 
