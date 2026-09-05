@@ -4,7 +4,7 @@ title: Mgr. Petr Staroštík
 strana: ODS
 popis: Advokátní koncipient, právník
 linkedin: https://www.linkedin.com/in/petr-starostik/
-foto: /images/chatgpt-image-30.-8.-2026-17_09_59.png
+foto: /images/04fd5dfb-093f-4ba8-8da9-e01d3094c860.jpeg
 ---
 **Advokátní koncipient | právník | 26 let**
 
