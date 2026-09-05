@@ -3,7 +3,7 @@ rank: 20
 title: Matěj Enc
 strana: ODS
 popis: Pracovník lesní správy
-foto: /images/img_2370_800x800.jpg
+foto: /images/3ed96f16-3770-4b36-9c25-14a3961279f9.jpeg
 ---
 **Pracovník lesní správy | 24 let**
 
