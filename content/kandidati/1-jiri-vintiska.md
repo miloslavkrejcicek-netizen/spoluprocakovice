@@ -5,7 +5,7 @@ strana: ODS
 popis: Starosta MČ Praha–Čakovice, odborník na komunální správu, dopravu a školství
 kontakt: jiri.vintiska@cakovice.cz
 linkedin: https://www.linkedin.com/in/jirivintiska/
-foto: /images/chatgpt-image-30.-8.-2026-18_33_17.png
+foto: /images/img_3554.jpeg
 ---
 **Starosta MČ Praha-Čakovice | 50 let**\
 
