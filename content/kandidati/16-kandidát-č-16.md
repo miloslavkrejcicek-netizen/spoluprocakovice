@@ -3,7 +3,7 @@ rank: 16
 title: Lenka Martínková
 strana: nezávislý
 popis: Obchodní zástupkyně
-foto: /images/chatgpt-image-30.-8.-2026-17_55_09.png
+foto: /images/ed282d1a-5b7b-4c74-ad7b-54a93b183a6f.jpeg
 ---
 **Obchodní zástupkyně | 48 let**
 
