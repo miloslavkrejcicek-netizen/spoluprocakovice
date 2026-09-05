@@ -5,7 +5,7 @@ strana: ODS
 popis: Zástupce starosty MČ Praha–Čakovice, odborník na bezpečnost a
   podnikatelskou sféru
 kontakt: martin.slavik@cakovice.cz
-foto: /images/chatgpt-image-30.-8.-2026-17_29_17.png
+foto: /images/img_3553.jpeg
 ---
 **Zástupce starosty MČ Praha-Čakovice | vedoucí výroby | 49 let**
 
