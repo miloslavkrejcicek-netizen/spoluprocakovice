@@ -7,7 +7,7 @@ kontakt: motycka@cakovice.cz
 linkedin: https://www.linkedin.com/in/michal-motycka-general-manager-operations-finance-food-and-beverage/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BriOBNNcVQlOQcUY5W5EZOA%3D%3D
 foto: /images/135e573b-26a7-41b9-afbc-45d05a451444.jpeg
 ---
-**Místostarosta MČ Praha-Čakovice | ředitel hotelu | starosta SDH Miškovice | 48 let.**
+**Místostarosta MČ Praha-Čakovice | ředitel hotelu | starosta SDH Miškovice | 48 let**
 
 V Čakovicích jsem našel svůj domov a už řadu let se podílím na jejich rozvoji. Jako místostarosta se dlouhodobě věnuji především **financím, rozpočtu a hospodaření městské části**. Věřím, že právě odpovědné hospodaření je základem toho, aby si městská část mohla dovolit investovat do toho, co její obyvatelé skutečně potřebují.
 
