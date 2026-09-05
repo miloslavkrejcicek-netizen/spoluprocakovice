@@ -5,7 +5,7 @@ strana: TOP09
 popis: 2. zástupce starosty MČ Praha–Čakovice, odborník na finance a sport
 kontakt: motycka@cakovice.cz
 linkedin: https://www.linkedin.com/in/michal-motycka-general-manager-operations-finance-food-and-beverage/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BriOBNNcVQlOQcUY5W5EZOA%3D%3D
-foto: /images/chatgpt-image-30.-8.-2026-17_26_47.png
+foto: /images/135e573b-26a7-41b9-afbc-45d05a451444.jpeg
 ---
 **Místostarosta MČ Praha-Čakovice | ředitel hotelu | starosta SDH Miškovice | 48 let**
 
