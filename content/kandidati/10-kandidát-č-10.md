@@ -4,7 +4,7 @@ title: Mgr. Miroslav Laštovka
 strana: nezávislý
 popis: Hudebník v Národním divadle, pedagog v ZUŠ M. Podvalové, zastupitel MČ
 kontakt: lastovka@cakovice.cz
-foto: /images/chatgpt-image-30.-8.-2026-17_44_13.png
+foto: /images/a48b9ea9-9681-4084-99f4-7623a39b0e6a.jpeg
 ---
 **Hudebník Národního divadla | pedagog ZUŠ Marie Podvalové Čakovice | zastupitel MČ Praha-Čakovice | 66 let**
 
