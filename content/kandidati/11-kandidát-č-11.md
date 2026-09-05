@@ -4,7 +4,7 @@ title: Jan Kadlec
 strana: nezávislý
 popis: Produkční/obchodní zástupce, zastupitel MČ Praha-Čakovice
 kontakt: kadlec@cakovice.cz
-foto: /images/chatgpt-image-30.-8.-2026-17_20_15.png
+foto: /images/93aa18c6-d323-4351-ad7d-4a1201a80683.jpeg
 ---
 **Zastupitel MČ Praha-Čakovice | předseda finančního výboru | člen komise pro sídliště | produkční** **\| 42 let**
 
