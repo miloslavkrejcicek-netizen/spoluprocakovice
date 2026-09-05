@@ -4,7 +4,7 @@ title: Lukáš Horský
 strana: ODS
 popis: Velitel hasičů, zastupitel MČ, referent
 kontakt: horsky@cakovice.cz
-foto: /images/chatgpt-image-30.-8.-2026-17_04_29.png
+foto: /images/168bffdf-7c56-4dce-8863-3678da34dcf8.jpeg
 ---
 **Zastupitel MČ Praha-Čakovice | velitel Jednotky požární ochrany MČ Praha-Čakovice | referent | 36 let**
 
