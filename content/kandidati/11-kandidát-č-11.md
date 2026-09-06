@@ -6,24 +6,30 @@ popis: Produkční/obchodní zástupce, zastupitel MČ Praha-Čakovice
 kontakt: kadlec@cakovice.cz
 foto: /images/93aa18c6-d323-4351-ad7d-4a1201a80683.jpeg
 ---
-**Zastupitel MČ Praha-Čakovice | předseda finančního výboru | člen komise pro sídliště | produkční** **\| 42 let**
+**Zastupitel MČ Praha-Čakovice | předseda finančního výboru | člen komise pro sídliště | ochodní zástupce a produkční** **\| 42 let**
 
-**Oblasti, kterým se chci věnovat:**\
-Sídliště Čakovice, volnočasové aktivity a zdravotnictví
+**Oblasti, kterým se chci věnovat:**
 
-**Co mám na naší městské části nejraději:**\
-Blízkost přírody i města, parky a možnosti aktivního trávení volného času.
+Sídliště Čakovice, volnočasové aktivity, finance, rozvoj a zdravotnictví.
 
-**Moje záliby:**\
-Historie, cestování, kultura, fotografování a sport.
+**Co mám na naší městské části nejraději:**
 
-**Pár slov o mně:**\
-Narodil jsem se v Praze a od narození jsem žil v sousedních Letňanech. V Čakovicích žiji od roku 2012 a za tu dobu se pro mě staly skutečným domovem.
+Blízkost přírody i města, parky, cyklostezky a možnosti aktivního a pestrého trávení volného času.
 
-Po maturitě na střední polygrafické škole jsem nastoupil do zaměstnání a celý svůj profesní život jsem zůstal věrný vystudovanému oboru. Krátce po přestěhování na čakovické sídliště jsem se stal předsedou SVJ domu, kde žije naše rodina, a tuto funkci zastávám dodnes. Díky tomu mám dlouholetou zkušenost s řešením konkrétních problémů, které lidé na sídlišti každodenně řeší.
+**Moje záliby:**
 
-Aktivně se zapojuji také do práce v komisi pro sídliště a do života naší městské části. Podílel jsem se například na organizaci šesti ročníků Drakiády nebo vánočního rozsvěcování stromečku v Bermance. Baví mě, když se lidé mohou potkávat, trávit spolu čas a mít kolem sebe příjemné prostředí pro život.
+Historie, cestování, kultura a sport.
 
-Za důležité považuji další rozvoj sídliště, kvalitní veřejný prostor a dostatek možností pro smysluplné trávení volného času. Zároveň bych chtěl přispět k tomu, aby byla v naší městské části dobře dostupná také péče a služby související se zdravím.
+**Pár slov o mně:**
 
-Jsem šťastně ženatý a s manželkou máme dceru a syna. Ve volném čase jsem nejraději s rodinou – ať už při cestování, turistice nebo při společném objevování nových míst.
+Narodil jsem se v Praze a od narození jsem žil v sousedních Letňanech. V Čakovicích žiji od roku 2012 a jsou mým krásným domovem.
+
+Krátce po přestěhování na čakovické sídliště jsem se stal předsedou SVJ domu, kde žije naše rodina, a tuto funkci zastávám dodnes.
+
+Vystudoval jsem střední polygrafickou školu a stále pracuji v tomto oboru. Posledních 15 let se zabývám obchodem, managementem a produkcí.
+
+Jsem šťastně ženatý a radost mi dělají dcera a syn.
+
+Nejen pro naše čakovické sídliště mě baví práce v komisi a také organizace Čakovické drakiády a rozsvěcování vánočního stromečku v Bermance.
+
+Poslední čtyři roky jsem byl zastupitelem naší MČ a předsedou finančního výboru. Velmi rád bych pokračoval v této úspěšné a rozdělané práci.
