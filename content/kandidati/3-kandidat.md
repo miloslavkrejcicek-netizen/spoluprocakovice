@@ -9,14 +9,16 @@ foto: /images/img_3553.jpeg
 ---
 **Zástupce starosty MČ Praha-Čakovice | vedoucí výroby | 49 let**
 
-Miškovice jsou mým domovem už více než dvacet let. Poprvé jsem se s nimi setkal už v roce 1995, kdy jsem zde absolvoval základní vojenskou službu. Tehdy jsem ještě netušil, že se sem jednou vrátím a že se Miškovice stanou místem, kde budu žít se svou rodinou a kde se budu aktivně podílet na jejich rozvoji.
+Městská část Praha-Čakovice je mým domovem už více než dvacet let. Poprvé jsem se s tímto místem setkal už v roce 1995, kdy jsem absolvoval základní vojenskou službu právě v Miškovicích. Tehdy jsem ještě netušil, že se sem jednou vrátím, budu zde žít se svou rodinou a aktivně se podílet na rozvoji celé městské části.
 
-Dlouhodobě se věnuji především **Miškovicím, jejich dopravě, infrastruktuře, bezpečnosti, životnímu prostředí a sportovnímu vyžití**. Od roku 2014 působím v Komisi pro Miškovice. Zároveň jsem od roku 2022 zástupce starosty městské části Praha-Čakovice.
+Dlouhodobě se věnuji především Miškovicím a Třeboradicím, dopravě, infrastruktuře, bezpečnosti a možnostem sportovního vyžití. Od roku 2014 působím v Komisi pro Miškovice. Od roku 2022 jsem místostarostou městské části Praha-Čakovice a zároveň radním pro oblast bezpečnosti.
 
-Velkou část mého života tvoří také **dobrovolní hasiči**. Členem SDH Miškovice jsem od roku 2006 a řadu let jsem působil jako zástupce velitele čakovicko-miškovické jednotky požární ochrany, jejímž jsem byl spoluzakladatelem. Díky tomu dobře vím, jak důležitá je připravenost, odpovědnost a schopnost rychle a prakticky řešit problémy.
+Právě bezpečnost je jednou z oblastí, kterým se věnuji nejvíce. Za důležitou považuji především úzkou a pravidelnou spolupráci s Městskou policií hl. m. Prahy a Policií České republiky, stejně jako další rozvoj a efektivní využívání kamerového systému v naší městské části. Dobrá spolupráce, vzájemná komunikace a vhodně nastavená preventivní opatření jsou podle mě základem toho, aby se obyvatelé Čakovic, Miškovic i Třeboradic cítili bezpečně.
 
-Jsem přesvědčený, že komunální politika má být především o **konkrétní práci a výsledcích**, ne o velkých slovech. Proto se chci i nadále věnovat tomu, aby se v Miškovicích dobře žilo – aby byly bezpečné, dobře dostupné a nabízely dostatek prostoru pro sport, odpočinek i setkávání lidí.
+Jsem také zakladatelem JPO Čakovice. Zkušenosti z této oblasti mi ukázaly význam odpovědnosti, spolupráce a schopnosti prakticky a rychle řešit problémy.
 
-Podílím se také na organizaci tradičních rybářských závodů v Miškovicích a svůj volný čas nejraději trávím aktivně – na kole, při turistice, rybaření nebo v přírodě. Jsem ženatý a největší radost mi dělá moje dcera.
+Jsem přesvědčený, že komunální politika má být především o konkrétní práci a výsledcích, ne o velkých slovech. Proto se chci i nadále podílet na tom, aby se v celé naší městské části dobře žilo – aby byla bezpečná, dobře dostupná a nabízela dostatek prostoru pro sport, odpočinek i setkávání lidí.
 
-**Řídím se jednoduchou zásadou: Když už něco dělám, chci to dělat na 100 %.**
+Podílím se také na organizaci tradičních rybářských závodů a svůj volný čas nejraději trávím aktivně – na kole, při turistice, rybaření, v přírodě nebo se psy. Mezi mé zájmy patří také kynologie. Jsem ženatý a největší radost mi dělá moje dcera.
+
+Řídím se jednoduchou zásadou: Když už něco dělám, chci to dělat na 100 %.
