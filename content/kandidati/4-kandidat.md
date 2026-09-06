@@ -17,6 +17,6 @@ Vedle komunální politiky pracuji jako privátní bankéř. Začínal jsem jako
 
 V minulosti jsem působil také jako předseda Komise pro sídliště a jsem členem Finančního výboru a Školské rady. Mám tak možnost dívat se na fungování Čakovic z různých pohledů – od každodenních problémů obyvatel až po hospodaření a rozvoj městské části.
 
-**Na Čakovicích mi záleží. Chci, aby se městská část dál rozvíjela, ale zároveň zůstala dobrým místem pro život – pro rodiny, děti, seniory i všechny, kteří zde žijí.**
+Na Čakovicích mi záleží. Chci, aby se městská část dál rozvíjela, ale zároveň zůstala dobrým místem pro život – pro rodiny, děti, seniory i všechny, kteří zde žijí.
 
 Ve volbách kandiduji znovu, protože věřím, že má smysl pokračovat v práci, kterou jsme společně začali. Nechci slibovat nemožné. Chci dál pomáhat prosazovat konkrétní řešení, která budou mít pro Čakovice skutečný přínos.
