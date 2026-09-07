@@ -7,12 +7,12 @@ foto: /images/ed282d1a-5b7b-4c74-ad7b-54a93b183a6f.jpeg
 ---
 **Obchodní zástupkyně | 48 let**
 
-Zajímá se o rozvoj městských částí (Miškovice, Čakovice a Třeboradice), kde se ráda zapojuje do společenských akcí. Zajímá se o místní přírodu a není jí lhostejný vzhled životního prostředí.
+Zajímám se o rozvoj městských částí (Miškovice, Čakovice a Třeboradice), kde se ráda zapojuji do společenských akcí. Zajímám se o místní přírodu a není mi lhostejný vzhled životního prostředí.
 
-Ráda cestuje po České republice a také v zahraničí tráví volný čas s rodinou.
+Ráda cestuji po České republice a také v zahraničí trávím volný čas s rodinou.
 
-V Miškovicích žije od roku 1991 (35 let) a zde vychovává své dva syny.
+V Miškovicích žiji od roku 1991 (35 let) a vychovávám zde své dva syny.
 
-Ve svém volném čase působí jako provozní místního restauračního zařízení, kde se koná velké množství místních společenských akcí.
+Ve svém volném čase působím jako provozní místního restauračního zařízení, kde se koná velké množství místních společenských akcí.
 
-V rozhodnutí o zapojení do společenského dění spatřuje možnost toto ovlivňovat a napomáhat.
+V zapojení do společenského dění spatřuji možnost věci ovlivňovat a napomáhat jejich zlepšení.
