@@ -7,22 +7,12 @@ foto: /images/ed282d1a-5b7b-4c74-ad7b-54a93b183a6f.jpeg
 ---
 **Obchodní zástupkyně | 48 let**
 
-**Oblasti, kterým se chci věnovat:**\
-Rozvoj Miškovic, Čakovic a Třeboradic
+Zajímá se o rozvoj městských částí (Miškovice, Čakovice a Třeboradice), kde se ráda zapojuje do společenských akcí. Zajímá se o místní přírodu a není jí lhostejný vzhled životního prostředí.
 
-**Co mám na naší městské části nejraději:**\
-Lesoparky, přírodu a klidnější prostředí, které máme i přes blízkost centra Prahy.
+Ráda cestuje po České republice a také v zahraničí tráví volný čas s rodinou.
 
-**Moje záliby:**\
-Cestování po České republice i do zahraničí a čas strávený s rodinou.
+V Miškovicích žije od roku 1991 (35 let) a zde vychovává své dva syny.
 
-**Pár slov o mně:**\
-V Miškovicích žiji více jak 30 let. Za tu dobu jsem si k tomuto místu vytvořila silný vztah a dobře znám jeho proměny i každodenní život jeho obyvatel.
+Ve svém volném čase působí jako provozní místního restauračního zařízení, kde se koná velké množství místních společenských akcí.
 
-Vystudovala jsem odborné učiliště v Holešovicích a prvních dvacet let své profesní kariéry jsem pracovala v gastronomii. Působím jako obchodní zástupkyně ve společnosti MADE GROUP, a.s.
-
-Jsem maminkou dvou dospívajících synů a nejraději trávím čas s celou rodinou. Rádi společně cestujeme, ať už po krásných místech České republiky, nebo do zahraničí.
-
-Na Miškovicích, Čakovicích a Třeboradicích mám ráda především jejich charakter, zeleň a blízkost přírody. Zároveň vnímám, že se naše městská část neustále rozvíjí a že je důležité, aby tento rozvoj probíhal citlivě a s ohledem na potřeby lidí, kteří zde žijí.
-
-Právě proto jsem se rozhodla připojit k týmu Spolu pro Čakovice. Chci svými zkušenostmi a pohledem člověka, který v Miškovicích žije již tři desetiletí, přispět k tomu, aby se naše městská část dál dobře rozvíjela a byla příjemným místem pro život.
+V rozhodnutí o zapojení do společenského dění spatřuje možnost toto ovlivňovat a napomáhat.
