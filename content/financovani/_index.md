@@ -1,46 +1,60 @@
 ---
-title: Financování volební kampaně
+title: Financování a transparentnost
 ---
-**Volby do Zastupitelstva městské části Praha–Čakovice 2026**
+SPOLU PRO ČAKOVICE
 
-Kampaň kandidátní listiny **SPOLU PRO ČAKOVICE** je financována transparentně a v souladu s platnými právními předpisy.
+Volby do Zastupitelstva městské části Praha-Čakovice 2026
 
-### Příjmy kampaně
+Tato stránka obsahuje informace o transparentnosti politické reklamy zveřejňované v rámci kampaně SPOLU PRO ČAKOVICE.
 
-| Zdroj                                | Částka        |
-| ------------------------------------ | ------------- |
-| Vlastní prostředky politických stran | XX XXX Kč     |
-| Dary a jiná bezúplatná plnění        | X XXX Kč      |
-| Ostatní příjmy                       | 0 Kč          |
-| **Celkem**                           | **XX XXX Kč** |
 
-### Výdaje kampaně
 
-| Oblast                           | Částka        |
-| -------------------------------- | ------------- |
-| Tiskoviny a propagační materiály | XX XXX Kč     |
-| Online reklama a sociální sítě   | XX XXX Kč     |
-| Grafika, fotografie a video      | 12 000 Kč     |
-| Venkovní reklama                 | XX XXX Kč     |
-| Akce a setkání s občany          | X XXX Kč      |
-| Ostatní náklady                  | X XXX Kč      |
-| **Celkem**                       | **12 000 Kč** |
+Zadavatel politické reklamy
 
-### Dary a bezúplatná plnění
+SPOLU PRO ČAKOVICE\
+\[doplnit přesný právní subjekt]\
+\[e-mail]\
+\[adresa sídla]
 
-Veškeré dary a bezúplatná plnění související s volební kampaní jsou evidovány v souladu se zákonem.
+Osoba/subjekt, který reklamu financuje
 
-Přehled podporovatelů a poskytnutých plnění bude zveřejňován v rozsahu stanoveném právními předpisy.
+\[přesný právní subjekt]\
+\[případně pouze pokud se liší od zadavatele]
 
-### Volební účet
+Účel reklamy
 
-Naše kandidátní listina kandiduje pouze v komunálních volbách. V souladu s aktuálními pravidly financování voleb proto nemá povinnost zřizovat samostatný volební účet.
+Volby do Zastupitelstva městské části Praha-Čakovice 2026
 
-### Zpráva o financování kampaně
+Období zveřejňování
 
-Po skončení voleb bude v zákonné lhůtě předložena Úřadu pro dohled nad hospodařením politických stran a politických hnutí zpráva o financování kampaně a související volební účetnictví.
+\[např. 1. 9. 2026 – 3. 10. 2026]
 
-**Zadavatel volební kampaně:**
-SPOLU PRO ČAKOVICE – Koalice ODS, TOP 09 a nezávislých kandidátů pro komunální volby 2026 v Praze–Čakovicích, Miškovicích a Třeboradicích.
+Náklady na politickou reklamu
 
-**Datum poslední aktualizace:** 04. 09. 2026
+\[XXX XXX Kč]
+
+Uvedená částka představuje souhrnnou částku za služby spojené s touto politickou reklamou / politickou reklamní kampaní.
+
+Původ finančních prostředků
+
+Soukromé prostředky.
+
+Způsob výpočtu nákladů
+
+Skutečně uhrazené částky poskytovatelům služeb politické reklamy na základě smluv, objednávek a faktur.
+
+
+
+Související volby
+
+Volby do Zastupitelstva městské části Praha-Čakovice 2026
+
+\[odkaz na oficiální informace o volbách]
+
+
+
+Oznámení o porušení pravidel
+
+Případné oznámení týkající se této politické reklamy lze zaslat na:
+
+\[e-mail]
