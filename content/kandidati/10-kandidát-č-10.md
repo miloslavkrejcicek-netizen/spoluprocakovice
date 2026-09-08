@@ -26,6 +26,6 @@ Od roku 1989 jsem členem orchestru Národního divadla v Praze, kde jsem v posl
 
 Právě propojení kultury, hudby a vzdělávání považuji za důležité pro rozvoj naší městské části. Rád bych přispěl k tomu, aby děti a mladí lidé měli kvalitní podmínky pro rozvoj svých talentů a aby kultura byla přirozenou a dostupnou součástí života v Čakovicích, Miškovicích i Třeboradicích.
 
-Zkušenosti s komunální politikou mám již z Tuchlovic, kde jsem jako nezávislý kandidát působil tři volební období v zastupitelstvu a zároveň jsem byl předsedou kulturní komise. Vím proto, že dobrá komunální politika není jen o rozhodování na radnici, ale především o znalosti prostředí, ve kterém lidé žijí, a o schopnosti naslouchat jejich potřebám.
+Zkušenosti s komunální politikou mám již z Tuchlovic, kde jsem jako nezávislý kandidát působil tři volební období v zastupitelstvu a zároveň jsem byl předsedou kulturní komise. V posledním volebním období působím také jako zastupitel MČ Praha-Čakovice, kde jsem předsedou komise pro Třeboradice a zároveň členem kulturní komise. Vím proto, že dobrá komunální politika není jen o rozhodování na radnici, ale především o znalosti prostředí, ve kterém lidé žijí, a o schopnosti naslouchat jejich potřebám.
 
 Ve volném čase se stále věnuji hudbě, rád cestuji a sportuji.
