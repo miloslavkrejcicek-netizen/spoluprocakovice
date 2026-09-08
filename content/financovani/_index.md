@@ -5,7 +5,7 @@ title: Transparentnost politické reklamy
 
 **Volby do Zastupitelstva městské části Praha-Čakovice 2026**
 
-Toto oznámení se vztahuje k politické reklamě (venkovní reklamní plochy – billboardy a plakáty) zveřejňované v rámci kampaně koalice SPOLU PRO ČAKOVICE.
+Toto oznámení se vztahuje k politické reklamě (venkovní reklamní plochy – billboardy a plakáty/plachty) zveřejňované v rámci kampaně koalice SPOLU PRO ČAKOVICE.
 
 **Sponzor / zadavatel politické reklamy**\
 Občanská demokratická strana (ODS)\
