@@ -20,7 +20,7 @@ Truhlářská 1106/9, 110 00 Praha 1 – Nové Město
 
 **Období zveřejnění reklamy**
 
-1. 9. 2026 – 9. 10. 2026
+(1. 9. 2026 – 9. 10. 2026)
 
 **Související volby**\
 Volby do Zastupitelstva městské části Praha–Čakovice 2026
