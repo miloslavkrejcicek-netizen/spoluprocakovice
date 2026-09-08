@@ -1,60 +1,56 @@
 ---
-title: Financování a transparentnost
+title: Transparentnost politické reklamy
 ---
-SPOLU PRO ČAKOVICE
+### SPOLU PRO ČAKOVICE
 
-Volby do Zastupitelstva městské části Praha-Čakovice 2026
+**Volby do Zastupitelstva městské části Praha–Čakovice 2026**
 
 Tato stránka obsahuje informace o transparentnosti politické reklamy zveřejňované v rámci kampaně SPOLU PRO ČAKOVICE.
 
+## Oznámení o transparentnosti
 
-
-Zadavatel politické reklamy
-
+**Zadavatel politické reklamy**\
 SPOLU PRO ČAKOVICE\
-\[doplnit přesný právní subjekt]\
-\[e-mail]\
-\[adresa sídla]
+Koalice ODS, TOP 09 a nezávislých kandidátů\
+Truhlářská 1106/9, 110 00 Praha 1 – Nové Město
 
-Osoba/subjekt, který reklamu financuje
+**Plátce**\
+\[např. ODS – Občanská demokratická strana, IČO …]\
+*Pokud je plátce totožný se zadavatelem, uvede se pouze tato skutečnost.*
 
-\[přesný právní subjekt]\
-\[případně pouze pokud se liší od zadavatele]
+**Období zveřejnění reklamy**
 
-Účel reklamy
+1. 9. 2026 – 9. 10. 2026
 
-Volby do Zastupitelstva městské části Praha-Čakovice 2026
+**Související volby**\
+Volby do Zastupitelstva městské části Praha–Čakovice 2026
 
-Období zveřejňování
+**Náklady na politickou reklamu**\
+Celková částka uhrazená poskytovateli reklamních služeb: **XX XXX Kč včetně DPH**
 
-\[např. 1. 9. 2026 – 3. 10. 2026]
+**Způsob stanovení nákladů**\
+Uvedená částka odpovídá skutečně fakturovaným nákladům za reklamní služby související s touto politickou reklamou.
 
-Náklady na politickou reklamu
+**Původ finančních prostředků**\
+Soukromé prostředky z území Evropské unie.
 
-\[XXX XXX Kč]
+**Cílení politické reklamy**\
+Ne. Reklama není cílená na konkrétní skupiny osob prostřednictvím osobních údajů.
 
-Uvedená částka představuje souhrnnou částku za služby spojené s touto politickou reklamou / politickou reklamní kampaní.
+**Předchozí pozastavení nebo ukončení šíření reklamy z důvodu porušení pravidel**\
+Ne.
 
-Původ finančních prostředků
+**Evropský registr online politické reklamy**\
+Nevztahuje se – jedná se o offline reklamní plochu.
 
-Soukromé prostředky.
+**Mechanismus pro oznámení možného porušení pravidel**\
+Podněty týkající se této politické reklamy lze zaslat na:\
+**e-mail:** info@spoluprocakovice.cz
 
-Způsob výpočtu nákladů
+- - -
 
-Skutečně uhrazené částky poskytovatelům služeb politické reklamy na základě smluv, objednávek a faktur.
+### Právní informace
 
+Toto oznámení je zveřejněno v souladu s pravidly transparentnosti politické reklamy podle nařízení Evropského parlamentu a Rady (EU) 2024/900.
 
-
-Související volby
-
-Volby do Zastupitelstva městské části Praha-Čakovice 2026
-
-\[odkaz na oficiální informace o volbách]
-
-
-
-Oznámení o porušení pravidel
-
-Případné oznámení týkající se této politické reklamy lze zaslat na:
-
-\[e-mail]
+U komunálních voleb se podle českého zákona o volebních kampaních neuplatňují pravidla financování volební kampaně, povinnost zřídit transparentní volební účet ani povinnost zveřejňovat údaje o financování volební kampaně.
