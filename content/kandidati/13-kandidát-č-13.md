@@ -3,6 +3,7 @@ rank: 13
 title: Ing. Jaroslav Šimáček
 strana: ODS
 popis: Projektový manažer
+linkedin: https://www.linkedin.com/in/jaroslav-%C5%A1im%C3%A1%C4%8Dek-60a007379?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 foto: /images/27169bf6-b338-4e8f-a273-371c362dd792.jpeg
 ---
 **Projektový manažer | 28 let**
