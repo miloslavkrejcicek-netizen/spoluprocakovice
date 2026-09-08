@@ -1,8 +1,6 @@
 ---
-title: Transparentnost politické reklamy
+title: Oznámení o transparentnosti politické reklamy
 ---
-# Oznámení o transparentnosti politické reklamy
-
 **Volby do Zastupitelstva městské části Praha-Čakovice 2026**
 
 Toto oznámení se vztahuje k politické reklamě (venkovní reklamní plochy – billboardy a plakáty/plachty) zveřejňované v rámci kampaně koalice SPOLU PRO ČAKOVICE.
