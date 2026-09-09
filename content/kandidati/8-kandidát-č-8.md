@@ -4,7 +4,7 @@ title: Miloš Vojáček
 strana: ODS
 popis: Předseda Pražského svazu stolního tenisu, zastupitel MČ
 kontakt: vojacek@cakovice.cz
-foto: /images/img_2404_800x800.jpg
+foto: /images/9f891d3c-fc8a-4bae-9422-4bf5b17dccde.jpeg
 ---
 **Zastupitel MČ Praha-Čakovice | předseda Pražského svazu stolního tenisu | 57 let**
 

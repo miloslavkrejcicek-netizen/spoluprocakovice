@@ -4,9 +4,9 @@ title: Mgr. Miroslav Laštovka
 strana: nezávislý
 popis: Hudebník v Národním divadle, pedagog v ZUŠ M. Podvalové, zastupitel MČ
 kontakt: lastovka@cakovice.cz
-foto: /images/chatgpt-image-30.-8.-2026-17_44_13.png
+foto: /images/a48b9ea9-9681-4084-99f4-7623a39b0e6a.jpeg
 ---
-**Hudebník Národního divadla, pedagog ZUŠ Marie Podvalové Čakovice | 66 let**
+**Hudebník Národního divadla | pedagog ZUŠ Marie Podvalové Čakovice | zastupitel MČ Praha-Čakovice | 66 let**
 
 **Oblasti, kterým se chci věnovat:**\
 Kultura a umělecké školství
@@ -26,6 +26,6 @@ Od roku 1989 jsem členem orchestru Národního divadla v Praze, kde jsem v posl
 
 Právě propojení kultury, hudby a vzdělávání považuji za důležité pro rozvoj naší městské části. Rád bych přispěl k tomu, aby děti a mladí lidé měli kvalitní podmínky pro rozvoj svých talentů a aby kultura byla přirozenou a dostupnou součástí života v Čakovicích, Miškovicích i Třeboradicích.
 
-Zkušenosti s komunální politikou mám již z Tuchlovic, kde jsem jako nezávislý kandidát působil tři volební období v zastupitelstvu a zároveň jsem byl předsedou kulturní komise. Vím proto, že dobrá komunální politika není jen o rozhodování na radnici, ale především o znalosti prostředí, ve kterém lidé žijí, a o schopnosti naslouchat jejich potřebám.
+Zkušenosti s komunální politikou mám již z Tuchlovic, kde jsem jako nezávislý kandidát působil tři volební období v zastupitelstvu a zároveň jsem byl předsedou kulturní komise. V posledním volebním období působím také jako zastupitel MČ Praha-Čakovice, kde jsem předsedou komise pro Třeboradice a zároveň členem kulturní komise. Vím proto, že dobrá komunální politika není jen o rozhodování na radnici, ale především o znalosti prostředí, ve kterém lidé žijí, a o schopnosti naslouchat jejich potřebám.
 
 Ve volném čase se stále věnuji hudbě, rád cestuji a sportuji.

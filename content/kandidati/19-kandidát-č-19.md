@@ -3,7 +3,7 @@ rank: 19
 title: Aneta Vojáčková
 strana: ODS
 popis: Trenérka stolního tenisu
-foto: /images/fotka_2397_800x800.jpg
+foto: /images/9765c208-e230-457e-ae68-c604ff005d6d.jpeg
 ---
 **Obchodní specialistka  | trenérka stolního tenisu TJ AVIA Čakovice | 29 let**
 

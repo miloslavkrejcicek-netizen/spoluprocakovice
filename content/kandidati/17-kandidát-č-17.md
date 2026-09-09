@@ -3,9 +3,9 @@ rank: 17
 title: Anna Raková
 strana: ODS
 popis: Elektromechanička v důchodu
-foto: /images/img_2348_web_final.jpg
+foto: /images/b3eb2264-796a-44d8-8deb-2d7dc43f79df.jpeg
 ---
-**Elektromechanička, seniorka | 76 let**
+**Elektromechanička | seniorka | 76 let**
 
 **Oblasti, kterým se chci věnovat:**\
 Kultura a volnočasové aktivity pro seniory

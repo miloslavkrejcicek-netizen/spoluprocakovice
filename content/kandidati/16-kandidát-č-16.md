@@ -2,27 +2,17 @@
 rank: 16
 title: Lenka Martínková
 strana: nezávislý
-popis: Obchodní zástupce
-foto: /images/chatgpt-image-30.-8.-2026-17_55_09.png
+popis: Obchodní zástupkyně
+foto: /images/ed282d1a-5b7b-4c74-ad7b-54a93b183a6f.jpeg
 ---
 **Obchodní zástupkyně | 48 let**
 
-**Oblasti, kterým se chci věnovat:**\
-Rozvoj Miškovic, Čakovic a Třeboradic
+Zajímám se o rozvoj městských částí (Miškovice, Čakovice a Třeboradice), kde se ráda zapojuji do společenských akcí. Zajímám se o místní přírodu a není mi lhostejný vzhled životního prostředí.
 
-**Co mám na naší městské části nejraději:**\
-Lesoparky, přírodu a klidnější prostředí, které máme i přes blízkost centra Prahy.
+Ráda cestuji po České republice a také v zahraničí trávím volný čas s rodinou.
 
-**Moje záliby:**\
-Cestování po České republice i do zahraničí a čas strávený s rodinou.
+V Miškovicích žiji od roku 1991 (35 let) a vychovávám zde své dva syny.
 
-**Pár slov o mně:**\
-V Miškovicích žiji více jak 30 let. Za tu dobu jsem si k tomuto místu vytvořila silný vztah a dobře znám jeho proměny i každodenní život jeho obyvatel.
+Ve svém volném čase působím jako provozní místního restauračního zařízení, kde se koná velké množství místních společenských akcí.
 
-Vystudovala jsem odborné učiliště v Holešovicích a prvních dvacet let své profesní kariéry jsem pracovala v gastronomii. Působím jako obchodní zástupkyně ve společnosti MADE GROUP, a.s.
-
-Jsem maminkou dvou dospívajících synů a nejraději trávím čas s celou rodinou. Rádi společně cestujeme, ať už po krásných místech České republiky, nebo do zahraničí.
-
-Na Miškovicích, Čakovicích a Třeboradicích mám ráda především jejich charakter, zeleň a blízkost přírody. Zároveň vnímám, že se naše městská část neustále rozvíjí a že je důležité, aby tento rozvoj probíhal citlivě a s ohledem na potřeby lidí, kteří zde žijí.
-
-Právě proto jsem se rozhodla připojit k týmu Spolu pro Čakovice. Chci svými zkušenostmi a pohledem člověka, který v Miškovicích žije již tři desetiletí, přispět k tomu, aby se naše městská část dál dobře rozvíjela a byla příjemným místem pro život.
+V zapojení do společenského dění spatřuji možnost věci ovlivňovat a napomáhat jejich zlepšení.

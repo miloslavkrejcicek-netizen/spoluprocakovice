@@ -4,7 +4,7 @@ title: Jiří Hlavatý, MBA
 strana: ODS
 popis: Konzultant v oboru IT, umělé inteligence a digitalizace procesů
 linkedin: https://www.linkedin.com/in/jiří-hlavatý-mba-8b062148/
-foto: /images/chatgpt-image-30.-8.-2026-17_49_19.png
+foto: /images/03ae9c66-fe09-49da-b744-f8bd85b5205f.jpeg
 ---
 **Konzultant v oboru IT, umělé inteligence a digitalizace procesů | 53 let**
 
