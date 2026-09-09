@@ -29,8 +29,6 @@ Nevztahuje se.
 ## Vydavatelé / poskytovatelé služeb politické reklamy
 
 * **\[Firma A]** – billboardy, IČO: \[IČO], sídlo: \[sídlo]
-* **\[Firma B]** – billboardy, IČO: \[IČO], sídlo: \[sídlo]
-* **\[Firma C]** – plakátovací plochy, IČO: \[IČO], sídlo: \[sídlo]
 
 *Seznam se vztahuje na poskytovatele služeb souvisejících s touto politickou reklamou.*
 
