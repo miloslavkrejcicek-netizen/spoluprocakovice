@@ -72,22 +72,5 @@ document.querySelectorAll(".reveal").forEach(function(el) { obs.observe(el); });
 window.addEventListener("scroll", function() {
   document.getElementById("main-nav").classList.toggle("scrolled", window.scrollY > 40);
 });
-
-var cf = document.getElementById("contact-form");
-if (cf) {
-  cf.addEventListener("submit", async function(e) {
-    e.preventDefault();
-    var btn = document.getElementById("submit-btn");
-    var s = document.getElementById("form-success");
-    var er = document.getElementById("form-error");
-    btn.textContent = "Odesílám..."; btn.disabled = true;
-    s.style.display = "none"; er.style.display = "none";
-    try {
-      var r = await fetch(cf.action, { method: "POST", body: new FormData(cf), headers: { "Accept": "application/json" } });
-      if (r.ok) { s.style.display = "block"; cf.reset(); btn.textContent = "Odesláno ✓"; }
-      else { er.style.display = "block"; btn.textContent = "Odeslat zprávu →"; btn.disabled = false; }
-    } catch(ex) { er.style.display = "block"; btn.textContent = "Odeslat zprávu →"; btn.disabled = false; }
-  });
-}
 </script>
 
