@@ -7,10 +7,8 @@ popis: Investujeme do školství a budoucnosti našich dětí – dokončili jsm
   parkoviště.
 foto: ""
 ---
-
-
-* dokončili jsme **nový areál základní školy** s kapacitou, která má pokrýt potřeby minimálně do roku 2040
-* získali jsme stavební povolení pro **rozšíření gymnázia**
-* revitalizovali jsme **hlavní vstup do základní školy včetně parkoviště**
-* připravili jsme studii **dostavby mateřské školy v Miškovicích**
-* získali jsme stavební povolení pro **novou mateřskou školu u cukrovaru**
+* rozšířili jsme **areál základní školy** na kapacitu pokrývající potřeby městské části nejméně do roku 2040
+* získali jsme stavební povolení a finance pro **rozšíření gymnázia**
+* **revitalizujeme hlavní vstup do základní školy** včetně parkoviště
+* připravili jsme studii **dostavby mateřské školy v Miškovicích**
+* získali jsme **stavební povolení pro 2. patro ve školce u cukrovaru**
