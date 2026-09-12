@@ -16,8 +16,8 @@ foto: ""
 * rekonstruovali jsme ulice **Na Kačence a Tuháňská**
 * dokončili jsme **opravy chodníků** a jejich postupnou proměnu ze živičných povrchů na zámkovou dlažbu
 * vybudovali jsme **propojovací chodník od Lidlu na sídliště včetně osvětlení**
-* vznikla **nová lávka přes železniční trať u Havraňáku**
-* podpořili jsme vznik nových **cyklostezek do Kbel a Letňanského lesoparku**
+* propojili jsme bezpečně severní rozšíření Havraňáku s hlavní částí Havraňáku **novou lávku** přes železniční trať
+* dokončili jsme **1,5 kilometru propojovací tří cyklostezek** vedoucích do Kbel a do Letňan
 * dlouhodobě prosazujeme **železnici jako rychlé spojení Čakovic s centrem Prahy**
 * podpořili jsme **tunelové řešení Pražského okruhu** včetně opatření proti hluku
-* rozšířili jsme **kamerový systém** – dnes je v MČ 54 přípojných bodů s možností měření rychlosti a evidence SPZ
+* rozšířili jsme **kamerový systém** – dnes je v MČ 54 přípojných bodů s možností měření rychlosti a evidence RZ (SPZ)
