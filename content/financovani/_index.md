@@ -5,7 +5,7 @@ title: Oznámení o transparentnosti politické reklamy
 
 Toto oznámení se vztahuje k politické reklamě (venkovní reklamní plochy – billboardy a plakáty/plachty) zveřejňované v rámci kampaně koalice SPOLU PRO ČAKOVICE.
 
-## Sponzor / zadavatel politické reklamy
+## Zadavatel politické reklamy
 
 **Občanská demokratická strana (ODS)**\
 IČO: 16192656\
@@ -15,7 +15,7 @@ Reklama je zveřejňována ve prospěch koalice SPOLU PRO ČAKOVICE (ODS, TOP 09
 
 ## Plátce politické reklamy
 
-**Totožný se sponzorem – Občanská demokratická strana (ODS).**
+**Totožný se zadavatelem – Občanská demokratická strana (ODS).**
 
 ## Kontaktní údaje sponzora
 
@@ -26,11 +26,9 @@ Web: **spoluprocakovice.cz**
 
 Nevztahuje se.
 
-## Vydavatelé / poskytovatelé služeb politické reklamy
+## Poskytovatel služeb politické reklamy
 
 * **ODIEN Group** – billboard, IČO: `26419173` , sídlo: Loretánské náměstí 109/3, Praha 1
-
-*Seznam se vztahuje na poskytovatele služeb souvisejících s touto politickou reklamou.*
 
 ## Období zveřejnění
 
