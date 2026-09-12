@@ -28,7 +28,7 @@ Nevztahuje se.
 
 ## Vydavatelé / poskytovatelé služeb politické reklamy
 
-* **\[Firma A]** – billboardy, IČO: \[IČO], sídlo: \[sídlo]
+* **ODIEN Group** – billboard, IČO: `26419173` , sídlo: Loretánské náměstí 109/3, Praha 1
 
 *Seznam se vztahuje na poskytovatele služeb souvisejících s touto politickou reklamou.*
 
@@ -45,7 +45,7 @@ https://mv.gov.cz/volby-referenda
 
 ## Souhrnné náklady na politickou reklamu
 
-**XX XXX Kč včetně DPH**
+**25 000 Kč včetně DPH**
 
 Částka představuje agregovanou hodnotu plateb a případných jiných plnění poskytnutých poskytovatelům služeb politické reklamy v souvislosti s touto politickou reklamou.
 
@@ -76,8 +76,6 @@ Nevztahuje se – jedná se o offline politickou reklamu.
 ## Oznámení možného porušení pravidel
 
 Podněty týkající se této politické reklamy lze bezplatně zaslat na **[info@spoluprocakovice.cz](mailto:info@spoluprocakovice.cz)**. Do předmětu zprávy prosím uveďte „Politická reklama“.
-
-Stížnost lze podat také Úřadu pro dohled nad hospodařením politických stran a politických hnutí na adrese **[podatelna@udhpsh.cz](mailto:podatelna@udhpsh.cz)**.
 
 ## Datum vydání / poslední aktualizace oznámení
 
