@@ -1,7 +1,8 @@
-baseURL = "/"
+baseURL = "https://spoluprocakovice.cz/"
 languageCode = "cs"
 title = "Spolu pro Čakovice"
 enableEmoji = true
+disableKinds = ["taxonomy", "term"]
 
 [params]
   eyebrow = "Komunální volby 2026 · Praha – Čakovice, Miškovice a Třeboradice"
