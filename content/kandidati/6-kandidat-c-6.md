@@ -1,7 +1,7 @@
 ---
 rank: 6
 title: Ludmila Vargová
-strana: nezávislý
+strana: "za nezávislé"
 popis: Ředitelka MŠ Čakovice III, zastupitelka MČ
 kontakt: vargova@cakovice.cz
 foto: /images/f7df3be3-7cad-40ea-bf6c-e823c5b57fe7.jpeg

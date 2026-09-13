@@ -1,7 +1,7 @@
 ---
 rank: 11
 title: Jan Kadlec
-strana: nezávislý
+strana: "za nezávislé"
 popis: Produkční/obchodní zástupce, zastupitel MČ Praha-Čakovice
 kontakt: kadlec@cakovice.cz
 foto: /images/93aa18c6-d323-4351-ad7d-4a1201a80683.jpeg

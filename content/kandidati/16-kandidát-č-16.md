@@ -1,7 +1,7 @@
 ---
 rank: 16
 title: Lenka Martínková
-strana: nezávislý
+strana: "za nezávislé"
 popis: Obchodní zástupkyně
 foto: /images/ed282d1a-5b7b-4c74-ad7b-54a93b183a6f.jpeg
 ---

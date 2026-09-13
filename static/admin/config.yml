@@ -66,7 +66,7 @@ collections:
     fields:
       - {label: "Číslo na kandidátce", name: "rank", widget: "number", value_type: "int"}
       - {label: "Jméno", name: "title", widget: "string"}
-      - {label: "Strana", name: "strana", widget: "select", options: ["ODS", "TOP09", "nezávislý"]}
+      - {label: "Strana", name: "strana", widget: "select", options: ["ODS", "TOP09", "za nezávislé"]}
       - {label: "Krátký popis (na kartě)", name: "popis", widget: "text"}
       - {label: "Kontaktní e-mail", name: "kontakt", widget: "string", required: false}
       - {label: "LinkedIn URL", name: "linkedin", widget: "string", required: false, hint: "Např. https://www.linkedin.com/in/jmeno-prijmeni"}

@@ -1,7 +1,7 @@
 ---
 rank: 14
 title: Patrik Vintiška
-strana: nezávislý
+strana: "za nezávislé"
 popis: Student
 foto: /images/c75df136-b505-4d8a-b946-f3dc06f9c88d.jpeg
 ---

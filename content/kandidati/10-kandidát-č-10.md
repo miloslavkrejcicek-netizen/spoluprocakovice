@@ -1,7 +1,7 @@
 ---
 rank: 10
 title: Mgr. Miroslav Laštovka
-strana: nezávislý
+strana: "za nezávislé"
 popis: Hudebník v Národním divadle, pedagog v ZUŠ M. Podvalové, zastupitel MČ
 kontakt: lastovka@cakovice.cz
 foto: /images/a48b9ea9-9681-4084-99f4-7623a39b0e6a.jpeg
