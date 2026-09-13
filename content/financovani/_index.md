@@ -1,5 +1,9 @@
 ---
 title: Oznámení o transparentnosti politické reklamy
+_build:
+  render: always
+  list: never
+  sitemap: false
 ---
 **Volby do Zastupitelstva městské části Praha-Čakovice 2026**
 
