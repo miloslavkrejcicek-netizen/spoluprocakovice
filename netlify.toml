@@ -6,6 +6,12 @@
   HUGO_VERSION = "0.121.0"
 
 [[redirects]]
+  from = "https://spoluprocakovice.netlify.app/*"
+  to = "https://spoluprocakovice.cz/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/admin"
   to = "/admin/index.html"
   status = 200
