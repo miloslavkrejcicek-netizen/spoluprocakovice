@@ -18,6 +18,7 @@ collections:
         label: "Obecné nastavení"
         file: "data/settings.yaml"
         fields:
+          - {label: "SEO titulek (zobrazí se jako nadpis odkazu ve výsledcích Google a v záložce prohlížeče)", name: "seo_title", widget: "string", hint: "Ideálně 50–60 znaků."}
           - {label: "SEO popisek (zobrazí se pod odkazem ve Google a při sdílení na sociálních sítích)", name: "seo_description", widget: "text", hint: "Ideálně 120–160 znaků."}
           - {label: "Logo — verze pro světlé pozadí (menu)", name: "logo", widget: "image", required: false}
           - {label: "Logo — verze pro tmavé pozadí (patička)", name: "logo_footer", widget: "image", required: false}

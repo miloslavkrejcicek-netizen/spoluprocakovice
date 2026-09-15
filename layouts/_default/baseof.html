@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ .Site.Title }}</title>
+<title>{{ .Site.Data.settings.seo_title | default .Site.Title }}</title>
 <meta name="description" content="{{ .Site.Data.settings.seo_description }}">
 <link rel="canonical" href="{{ .Permalink }}">
 
@@ -11,14 +11,14 @@
 <meta property="og:locale" content="cs_CZ">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:title" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ .Site.Data.settings.seo_title | default .Site.Title }}">
 <meta property="og:description" content="{{ .Site.Data.settings.seo_description }}">
 <meta property="og:image" content="{{ "images/og-image.jpg" | absURL }}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ .Site.Title }}">
+<meta name="twitter:title" content="{{ .Site.Data.settings.seo_title | default .Site.Title }}">
 <meta name="twitter:description" content="{{ .Site.Data.settings.seo_description }}">
 <meta name="twitter:image" content="{{ "images/og-image.jpg" | absURL }}">
 
