@@ -15,6 +15,6 @@ popis: >
 
 Tam, kde je vhodné podpořit bezpečnost dohledem, instalujeme kamerový systém. Chceme zůstat jednou z nejbezpečnějších čtvrtí v Praze. 
 
-* **Nadále podpoříme silnou protipožární ochranu**
+* **Nadále podpoříme silnou požární ochranu**
 
 V oblasti požární ochrany budeme nadále podporovat vlastní jednotku dobrovolných hasičů se sídlem v Miškovicích. Podpoříme i záměr státu na vybudování hasičské stanice u dálničního okruhu.
